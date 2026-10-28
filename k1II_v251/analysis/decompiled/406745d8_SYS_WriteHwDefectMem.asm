@@ -1,0 +1,9 @@
+406745d8  stmdb sp!,{r0,r1,r4,lr}
+406745dc  cpy r0,sp
+406745e0  bl 0x406793bc
+406745e4  mov r4,#0x0
+406745e8  bl 0x40497bbc
+406745ec  ldr r0,[r0,#0x4]
+406745f0  bl 0x40673cd8
+406745f4  cpy r0,r4
+406745f8  ldmia sp!,{r2,r3,r4,pc}

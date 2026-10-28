@@ -1,0 +1,14 @@
+403a35e4  ldr r0,[r0,#0x4]
+403a35e8  ldr r1,[0x403a3a78]
+403a35ec  cmp r0,r1
+403a35f0  moveq r0,#0x1
+403a35f4  movne r0,#0x0
+403a35f8  bx lr
+4064f5f0  stmdb sp!,{r4,lr}
+4064f5f4  bl 0x40497bbc
+4064f5f8  ldr r0,[r0,#0x4]
+4064f5fc  mov r1,#0x3
+4064f600  bl 0x406716e4
+4064f604  bl 0x403a3a04
+4064f608  ldmia sp!,{r4,lr}
+4064f60c  b 0x403a35e4

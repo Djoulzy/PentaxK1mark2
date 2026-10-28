@@ -1,0 +1,11 @@
+{
+  "original_sha256_unchanged": true,
+  "decoded_hashes_valid": true,
+  "resources_hashes_valid": 106,
+  "decompilation_targets": 466,
+  "successful_decompilation_results": 466,
+  "c_files": 466,
+  "asm_files": 466,
+  "readme_local_link_errors": [],
+  "note": "Decompilation success is not a proof of semantic correctness or hardware reachability."
+}

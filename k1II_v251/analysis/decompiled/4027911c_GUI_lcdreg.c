@@ -1,0 +1,23 @@
+/* Ghidra 12.2, ARM:LE:32:v7, base 0x40000000.
+ * Automatically reconstructed C; types and names may be approximate.
+ * Names from cmd_*.txt are original; obs_* names are analyst labels. */
+
+longlong GUI_lcdreg(undefined4 param_1,undefined4 param_2)
+
+{
+  uint uVar1;
+  int iVar2;
+  undefined4 uStack_14;
+  undefined4 uStack_10;
+  
+  uStack_14 = param_1;
+  uStack_10 = param_2;
+  FUN_406793bc(&uStack_14);
+  iVar2 = FUN_40669e34();
+  uVar1 = uRam4027924c;
+  FUN_4067ca30(iVar2 != 0,0x40279204,0x402791e8,0x66);
+  FUN_4067cd44(0x40279250);
+  FUN_4066e4b4(iVar2,0);
+  return (ulonglong)uVar1 << 0x20;
+}
+

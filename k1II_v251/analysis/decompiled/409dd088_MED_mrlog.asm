@@ -1,0 +1,10 @@
+409dd088  ldr r0,[0x409dcb30]
+409dd08c  stmdb sp!,{r4,lr}
+409dd090  ldrb r1,[r0,#0x1]
+409dd094  eors r1,r1,#0x1
+409dd098  strb r1,[r0,#0x1]
+409dd09c  adrne r0,0x409dd2b8
+409dd0a0  adreq r0,0x409dd2c8
+409dd0a4  bl 0x4067cd44
+409dd0a8  mov r0,#0x0
+409dd0ac  ldmia sp!,{r4,pc}

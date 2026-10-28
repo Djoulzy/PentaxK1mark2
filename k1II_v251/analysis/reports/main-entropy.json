@@ -1,0 +1,226 @@
+[
+  {
+    "offset": "0x0",
+    "bytes": 1048576,
+    "entropy_bits": 6.204924,
+    "zero_bytes": 165313,
+    "ff_bytes": 29422
+  },
+  {
+    "offset": "0x100000",
+    "bytes": 1048576,
+    "entropy_bits": 0.763735,
+    "zero_bytes": 986255,
+    "ff_bytes": 834
+  },
+  {
+    "offset": "0x200000",
+    "bytes": 1048576,
+    "entropy_bits": 6.47827,
+    "zero_bytes": 127461,
+    "ff_bytes": 19855
+  },
+  {
+    "offset": "0x300000",
+    "bytes": 1048576,
+    "entropy_bits": 6.217377,
+    "zero_bytes": 147550,
+    "ff_bytes": 20538
+  },
+  {
+    "offset": "0x400000",
+    "bytes": 1048576,
+    "entropy_bits": 6.201784,
+    "zero_bytes": 149156,
+    "ff_bytes": 22641
+  },
+  {
+    "offset": "0x500000",
+    "bytes": 1048576,
+    "entropy_bits": 6.161811,
+    "zero_bytes": 153129,
+    "ff_bytes": 22456
+  },
+  {
+    "offset": "0x600000",
+    "bytes": 1048576,
+    "entropy_bits": 6.131053,
+    "zero_bytes": 164450,
+    "ff_bytes": 24173
+  },
+  {
+    "offset": "0x700000",
+    "bytes": 1048576,
+    "entropy_bits": 5.799323,
+    "zero_bytes": 141957,
+    "ff_bytes": 24758
+  },
+  {
+    "offset": "0x800000",
+    "bytes": 1048576,
+    "entropy_bits": 5.965994,
+    "zero_bytes": 145646,
+    "ff_bytes": 26064
+  },
+  {
+    "offset": "0x900000",
+    "bytes": 1048576,
+    "entropy_bits": 6.220686,
+    "zero_bytes": 143665,
+    "ff_bytes": 22218
+  },
+  {
+    "offset": "0xa00000",
+    "bytes": 1048576,
+    "entropy_bits": 5.206704,
+    "zero_bytes": 374361,
+    "ff_bytes": 128128
+  },
+  {
+    "offset": "0xb00000",
+    "bytes": 1048576,
+    "entropy_bits": 1.705707,
+    "zero_bytes": 872717,
+    "ff_bytes": 14551
+  },
+  {
+    "offset": "0xc00000",
+    "bytes": 1048576,
+    "entropy_bits": 2.533681,
+    "zero_bytes": 753364,
+    "ff_bytes": 20502
+  },
+  {
+    "offset": "0xd00000",
+    "bytes": 1048576,
+    "entropy_bits": 6.011258,
+    "zero_bytes": 295488,
+    "ff_bytes": 9815
+  },
+  {
+    "offset": "0xe00000",
+    "bytes": 1048576,
+    "entropy_bits": 5.520413,
+    "zero_bytes": 361836,
+    "ff_bytes": 7411
+  },
+  {
+    "offset": "0xf00000",
+    "bytes": 1048576,
+    "entropy_bits": 1.741655,
+    "zero_bytes": 874876,
+    "ff_bytes": 681
+  },
+  {
+    "offset": "0x1000000",
+    "bytes": 1048576,
+    "entropy_bits": 0.567883,
+    "zero_bytes": 998797,
+    "ff_bytes": 628
+  },
+  {
+    "offset": "0x1100000",
+    "bytes": 1048576,
+    "entropy_bits": -0.0,
+    "zero_bytes": 1048576,
+    "ff_bytes": 0
+  },
+  {
+    "offset": "0x1200000",
+    "bytes": 1048576,
+    "entropy_bits": -0.0,
+    "zero_bytes": 1048576,
+    "ff_bytes": 0
+  },
+  {
+    "offset": "0x1300000",
+    "bytes": 1048576,
+    "entropy_bits": -0.0,
+    "zero_bytes": 1048576,
+    "ff_bytes": 0
+  },
+  {
+    "offset": "0x1400000",
+    "bytes": 1048576,
+    "entropy_bits": -0.0,
+    "zero_bytes": 1048576,
+    "ff_bytes": 0
+  },
+  {
+    "offset": "0x1500000",
+    "bytes": 1048576,
+    "entropy_bits": 0.004587,
+    "zero_bytes": 1048319,
+    "ff_bytes": 16
+  },
+  {
+    "offset": "0x1600000",
+    "bytes": 1048576,
+    "entropy_bits": -0.0,
+    "zero_bytes": 0,
+    "ff_bytes": 1048576
+  },
+  {
+    "offset": "0x1700000",
+    "bytes": 1048576,
+    "entropy_bits": -0.0,
+    "zero_bytes": 0,
+    "ff_bytes": 1048576
+  },
+  {
+    "offset": "0x1800000",
+    "bytes": 1048576,
+    "entropy_bits": -0.0,
+    "zero_bytes": 0,
+    "ff_bytes": 1048576
+  },
+  {
+    "offset": "0x1900000",
+    "bytes": 1048576,
+    "entropy_bits": -0.0,
+    "zero_bytes": 0,
+    "ff_bytes": 1048576
+  },
+  {
+    "offset": "0x1a00000",
+    "bytes": 1048576,
+    "entropy_bits": -0.0,
+    "zero_bytes": 0,
+    "ff_bytes": 1048576
+  },
+  {
+    "offset": "0x1b00000",
+    "bytes": 1048576,
+    "entropy_bits": -0.0,
+    "zero_bytes": 0,
+    "ff_bytes": 1048576
+  },
+  {
+    "offset": "0x1c00000",
+    "bytes": 1048576,
+    "entropy_bits": -0.0,
+    "zero_bytes": 0,
+    "ff_bytes": 1048576
+  },
+  {
+    "offset": "0x1d00000",
+    "bytes": 1048576,
+    "entropy_bits": -0.0,
+    "zero_bytes": 0,
+    "ff_bytes": 1048576
+  },
+  {
+    "offset": "0x1e00000",
+    "bytes": 1048576,
+    "entropy_bits": -0.0,
+    "zero_bytes": 0,
+    "ff_bytes": 1048576
+  },
+  {
+    "offset": "0x1f00000",
+    "bytes": 1048576,
+    "entropy_bits": -0.0,
+    "zero_bytes": 0,
+    "ff_bytes": 1048576
+  }
+]

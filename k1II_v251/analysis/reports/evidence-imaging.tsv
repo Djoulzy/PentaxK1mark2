@@ -1,0 +1,214 @@
+offset_main	virtual_address	text
+0x000bb9c4	0x400bb9c4	Call AstroTracer->Orbit_calc() Time %4d
+0x000fb36f	0x400fb36f	AfBacklashDriveSequence
+0x000fb387	0x400fb387	AfBacklashDriveSequenceForReverse
+0x000fbd29	0x400fbd29	4FP^^5^^^^6^^^^7^[^^8^\^^9^[^^:^\^^;^[^^<^\^==Q>>??R@@AASBBCCTDDEEUFFRSTGHIJKGHIJKVWXYZLMNOPLMNOP^^[\[\[\QQRRSSTTUUVWXYZVWXYZ
+0x000fcb92	0x400fcb92	FG&LH'MI(NJ)OK*P79;8:<==Q>>??R@@AASBBCCTDDEEUFFRSTGHIJKGHIJKVWXYZLMNOPLMNOP^^[\[\[\QQRRSSTTUUVWXYZVWXYZQRSTUVWXYZ[\=?ACE>@BDFGHIJKLMNOP
+0x000fd185	0x400fd185	==Q>>??R@@AASBBCCTDDEEUFFRSTGHIJKGHIJKVWXYZLMNOPLMNOP^^[\[\[\QQRRSSTTUUVWXYZVWXYZ
+0x000fe680	0x400fe680	 #'-2940+&#&+049FA=72.27=AFQNJEC?CEJNQZXVSRRRSVXZ``^\\Z\\^``bddcbabcddb
+0x000fed88	0x400fed88	 !"#$$%&'(()*++,-.//01123445677899:;;<==>??@AABCCDDEFFGGHIIJJKKLMMNNOOPPQQRRSSTTUUVVWWXXYYZ
+0x00117504	0x40117504	[0:Nop, 1:Wifi, 2:Crop, 3:SR, 4:Grid, 5:HDR, 6:Bracket, 7:Continuous, 8:ISO, 9:Xv, 0xff:Reset]
+0x0025bb1f	0x4025bb1f	@NandFlashDriver.cpp
+0x0025c19b	0x4025c19b	@CNandFlashDriver::%s ErrorCode = %d
+0x00296bfc	0x40296bfc	IsEnableBlendBypass(%d)
+0x002a375f	0x402a375f	@pcConfig->IsEnableTable()
+0x00325638	0x40325638	[PPU_MIPI] DPhyErrSotHsRead          : %x
+0x00325664	0x40325664	[PPU_MIPI] DPhyErrSotSyncHsRead      : %x
+0x003256bc	0x403256bc	[PPU_MIPI] DPhyErrSyncEscRead        : %x
+0x00325a94	0x40325a94	[PPU_MIPI] DPhyErrSotHsRead : %x
+0x00325ab8	0x40325ab8	[PPU_MIPI] DPhyErrSotSyncHsRead : %x
+0x00325b00	0x40325b00	[PPU_MIPI] DPhyErrSyncEscRead : %x
+0x0033e265	0x4033e265	G3@m_dwAddressRrsMap
+0x00342c14	0x40342c14	CHdrImageCombineConfig
+0x0038f7d8	0x4038f7d8	cim_satobi
+0x0038fae4	0x4038fae4	hdr_auto
+0x0038faf0	0x4038faf0	hdr_mode1
+0x0038fafc	0x4038fafc	hdr_mode2
+0x0038fb08	0x4038fb08	hdr_mode3
+0x0038fb14	0x4038fb14	hdr_modeA
+0x0038fd8c	0x4038fd8c	gradND
+0x003962e3	0x403962e3	@%s : hdrl do NOT exist.
+0x003c0f6c	0x403c0f6c	ID_HDR_MODE_ON
+0x003c0fc4	0x403c0fc4	ID_RRS_MODE
+0x003c10d8	0x403c10d8	HDR_MODE_OFF
+0x003c10e8	0x403c10e8	HDR_MODE_AUTO
+0x003c117c	0x403c117c	RRS_MODE_ON_MC_ON
+0x003c1190	0x403c1190	RRS_MODE_ON_MC_OFF
+0x003c11a4	0x403c11a4	RRS_MODE_OFF
+0x003c14ec	0x403c14ec	shell_CAP_CancelGradNdShooting IN
+0x003c1540	0x403c1540	shell_CAP_CancelGradNdShooting OUT:%d ReqStore:%d
+0x00405a5b	0x40405a5b	@pcNandFlashDriver
+0x0048f2c7	0x4048f2c7	@m_pcSubIFDsPointerHDR
+0x0048f2e0	0x4048f2e0	m_pcSubIFDsPointerRRS
+0x004cf110	0x404cf110	m_arpcImageMetaDataEditor[ eImageEditType_AstroPhoto ]
+0x004ec623	0x404ec623	@GradNdDataHelper.cpp
+0x004ec647	0x404ec647	@GradNdDataHelper.cpp
+0x005282f4	0x405282f4	gradND
+0x0055a47c	0x4055a47c	blEnableRealResolution(%d), IsModeInfo_RRSMode(%d)
+0x0055cf08	0x4055cf08	[CPS] ERROR <Disable RRSCancel>
+0x0055fb1b	0x4055fb1b	@OnNoiseCalibration() IsEnableMergePreviousData
+0x006f5c81	0x406f5c81	"o@tRrsResult.m_bEnable
+0x006fd083	0x406fd083	@AstroTracerDataHelper.cpp
+0x006fd0af	0x406fd0af	@AstroTracerDataHelper.cpp
+0x0075f6d7	0x4075f6d7	@GradNdCompositeMode.cpp
+0x007820d7	0x407820d7	@ShootingHdrPanelMode.cpp
+0x0078e8f7	0x4078e8f7	@GradNdStillPanelMode.cpp
+0x007a953b	0x407a953b	@AstroTracerSettingMode.cpp
+0x007ce03f	0x407ce03f	@GradNdSettingMode.cpp
+0x007cf31f	0x407cf31f	@GradNdCustomSettingMode.cpp
+0x00876b13	0x40876b13	@RawDevelopmentHdrSetMode.cpp
+0x00876def	0x40876def	@RawDevelopmentRrsSetMode.cpp
+0x0087f01f	0x4087f01f	@IsEnableChangeClarity()
+0x0087f038	0x4087f038	IsEnableChangeSkinTexture()
+0x0087f054	0x4087f054	IsEnableChangeDigitalFilter()
+0x0087f074	0x4087f074	IsEnableChangeMultiShotComposite()
+0x0088f073	0x4088f073	@AstroPhotoMode.cpp
+0x00892297	0x40892297	@AstroPhotoParameterSetMode.cpp
+0x008930cb	0x408930cb	@GetSelectingGroup() == AstroPhotoParameter::Group_Fringe
+0x0089310b	0x4089310b	@GetSelectingGroup() == AstroPhotoParameter::Group_AstroClarity
+0x0089343b	0x4089343b	@GetSelectingGroup() == AstroPhotoParameter::Group_Background
+0x00893483	0x40893483	@GetSelectingGroup() == AstroPhotoParameter::Group_ColorCast
+0x008937e7	0x408937e7	@GetSelectingGroup() == AstroPhotoParameter::Group_Shading
+0x00893a33	0x40893a33	@AstroPhotoParameterSetMode.cpp
+0x0089419f	0x4089419f	@AstroPhotoSaveDialogMode.cpp
+0x00896ec0	0x40896ec0	[AFE] PHASE ADJUST SHPR: %3d SHPF: %3d SHDR: %3d SHDF: %3d 
+0x008ae077	0x408ae077	@AstroPhotoModeBase.cpp
+0x008b9318	0x408b9318	ASTROTRACER TEST <EN>  
+0x008b9330	0x408b9330	ASTROTRACER TEST <DIS> 
+0x008d46f0	0x408d46f0	ViewRrsImageCore() NG Recipe==Null %d
+0x008d4718	0x408d4718	ViewRrsImageCore() NG Count %d
+0x008d4738	0x408d4738	Call ViewDirectRrsImage() but RRSCount = 0
+0x008d8414	0x408d8414	[BPC]CancelGradNdShooting OriginStore Nothing 2nd Shot.
+0x00956f63	0x40956f63	@EditAstroPhoto.cpp
+0x00956f83	0x40956f83	@EditAstroPhoto.cpp
+0x00968740	0x40968740	(CombineHDR)
+0x009900bf	0x409900bf	@C:\DCIM\100DEBUG\HDR_%04d.JPG
+0x00990488	0x40990488	HDR mode
+0x0099049c	0x4099049c	HDR backup mode current:%d
+0x009904b8	0x409904b8	HDR backup mode update:%d
+0x009b0687	0x409b0687	@AstroPhotoImageWrite.cpp
+0x009cad38	0x409cad38	set HDR mode.
+0x009de6b4	0x409de6b4	!!!ASTROTRACER TEST MODE!!!
+0x00a04842	0x40a04842	ForcedActivationKaten
+0x00a04858	0x40a04858	ClearForcedActivationKaten
+0x00a04a9a	0x40a04a9a	IsEnableReleaseAfLockWithAeLock
+0x00a04bc5	0x40a04bc5	IsEnableSmartFunctionHdrSetting
+0x00a04be5	0x40a04be5	IsEnableSmartFunctionSrSetting
+0x00a04c04	0x40a04c04	IsEnableSmartFunctionContinuousSetting
+0x00a04c2b	0x40a04c2b	IsEnableSmartFunctionExpBraketSetting
+0x00a04c9a	0x40a04c9a	ChangeHdrSetting
+0x00a07fac	0x40a07fac	RefreshDriveMode
+0x00a0af89	0x40a0af89	IsEnableChangeValue
+0x00a0e240	0x40a0e240	IsEnableScreenOnSettingState
+0x00a108c8	0x40a108c8	IsEnableChangeIsoValue
+0x00a135f8	0x40a135f8	IsEnableVisibleChangeIsoValueCursor
+0x00a1b5f8	0x40a1b5f8	RefreshDriveMode
+0x00a25c10	0x40a25c10	RefreshDramaticArtDramaticArt
+0x00a27bb8	0x40a27bb8	RefreshDramaticArtDramaticArt
+0x00a2842e	0x40a2842e	IsEnableCopyFolder
+0x00a2ac06	0x40a2ac06	GetAstroTracerExposureModeIconValue
+0x00a2f3df	0x40a2f3df	RefreshDramaticArtComp
+0x00a30d43	0x40a30d43	UpdateRrsParameter
+0x00a31c8c	0x40a31c8c	ChangeHdr
+0x00a31c96	0x40a31c96	ChangeRrs
+0x00a3bf3d	0x40a3bf3d	SetHDR
+0x00a3c12d	0x40a3c12d	IsEnableSetDriveModeStill
+0x00a3c147	0x40a3c147	IsEnableSetWhiteBarance
+0x00a3c15f	0x40a3c15f	IsEnableSetCustomImage
+0x00a3c176	0x40a3c176	IsEnableSetRecordForm
+0x00a3c18c	0x40a3c18c	IsEnableSetJpegSize
+0x00a3c1a0	0x40a3c1a0	IsEnableSetImageQuality
+0x00a3c1b8	0x40a3c1b8	IsEnableSetRawType
+0x00a3c1cb	0x40a3c1cb	IsEnableSetCardSlotTypeStill
+0x00a3c1e8	0x40a3c1e8	IsEnableSetCardSlotTypeIntervalMovie
+0x00a3c20d	0x40a3c20d	IsEnableSetCardSlotTypeMovie
+0x00a3c22a	0x40a3c22a	IsEnableSetLiveViewFocusAssistStill
+0x00a3c24e	0x40a3c24e	IsEnableSetLiveViewFocusAssistMovie
+0x00a3c272	0x40a3c272	IsEnableSetGpsBulbSrOrbitTracking
+0x00a3c294	0x40a3c294	IsEnableSetFocusDrive
+0x00a44ea4	0x40a44ea4	CNandFlashDriver
+0x00a47877	0x40a47877	IsEnableCreateFolder
+0x00a59e9e	0x40a59e9e	~~~}}~}}}||vtsmlkjjkllrtyz{{{{|||||}}~}~~~~~~~~~~~~~~~~~}}}||||||{{usrlkjjhjjkqrxyyzzzz{z{{{{{{|||||||}|||||||||{{{{{{{zzzytrpkjihghijprwxxyyyyzyzzzz{zzzz{{{{{{{{zz{{{{zzzzzzyyyyxsqojihgfghiopvwwwxxxxxxxxxyyyyyyyyyzyyyyyyyyyyyyyxyxxwwwqonhgffdefgmouvvvvvvvvvvvwwwwwwwwwwxwwwwwwwwwwwwwvwvvvuuomlfeddbdeflmstttuuuuuttuuuuuvuvvvvvvvvuuuuuuuuuuuuutttsnlkedcb`abcijpqqqqrrrrqrrrrrrsssrrsssrsrrrrrrrrrrrqqqqqpjigba`_]__`fhmnoooppppppppqpppqppppppppppppppppopooooonnhfe__^]Z[\]cdjkklllllllllmmmmmmmmlmmmmmllmlllllllkkkkkkjdca\[ZYCDEFLMRSTTTTTTTTTTTUUTTTTTTTTTTTTTTTTTTTSSSSSSSSSMKJEDCB?@ABHINOOPPPPPPPPPPPPPPPPPPPPPOPPOOOOOOOOOOOOOOONIGFA@?>:;<=CDJKJKKKKKKKKKKKKKKKKKKKKKKKKKKKKKJJJJJKKJJJJDCB<;::
+0x00a5a619	0x40a5a619	}{ztsrrsstu|}
+0x00a5a754	0x40a5a754	~~~}}}}}}}}}}}}}}}}}}wuuonmmnoopvw|}}}}}}}}}}}}|}}}}}}~~~}}}}}||||||||||||||{vtsnmllmnnouv{||||{{||||||{|||||}}}}||||||{{{{{{{{{{{{{{usrmlkklmmntuzz{{{{{{{{{{{{{{{||||||||{{{{zzzzzzzzzzzyyztrqlkkjkllmstyzzzzzzzzzzzz{{{{{{{{{{{{zzzzyyyyyyyxyyyxxxsqpkjjijkklqrxyyyyyyyyyyyzyzzzzzzzzzzzyyyyxxxxxxwxxxxwwwqpojiiijjkkqqwxxxxxxxxxxxyyyyyyyyyyyyxxxxxwwwwwwwwwwwvwvqonihhhiijjoqvwwwwwwwwwwxxxxxxxxxxxxxwwwwwwwvvvvvvvvvvvvpnmhggghhijopvvwwvwvvwwwwwwwwwwwwwwwwvvvvvvvvuuuuvuvuuuuonmhggghhhiopuuvvvvvvvvvvvvvvvvvvvvvvuuuuuuuuuutuuuuutttomlggffghhhnotuuuuuuuuuuuuuvvuuuuuuuuutuutttttttttttttttomlggfffgghmotttttttttttuuuuutttttttttttttttsssssstttsssnmlgfffffggmnsssssssstssttsttsttttttssssssssrrrsssssssssmlkffffffgglmrsrrsssssssssssssssssssrrrrrrrrrrrrrrrssrrrmlkfffffffglmrrrrrrrrrrrrrrrrrrsssrsrrrrqqqqqqqqqqqrrrrrmlkffeeeeffklqqqqqqqqqqqqqqqqqqqqqqqqqqqpqpqpqpppqqqrqqqlkjeeeddeeejkpppppppppppppppppppppppopppppppppppppqqqqqqlkjeddccdddikoopppopooooooonnnooooooonooooooooooopppppppkjidccbbbcdhjnooonnnnnnnnnmmmmmmmmmmmmmmmmnnnnnnnnoooooojihcbbaaabchinonnnnnnnmmmmmmlllllllmmmlllmmmmmmnnnnnnooojhgbba```abghmnnmnmmmmlllllllllllllllllllllmmmmmmmmmmmnnigfa``_^_``fglmmlllllkkkkkkkkkkkjkjkkkkkkkkkklllllllllllgfe`_^^]^__dekkkkkkkkkjjjjjjjjjjjjjjjjiiijjjjjjjjjkkkkkkfdc^]]\Z[\]bchiiiiiiihhhhhhhhghhgghhgggggghhhhhhhhhhiiihcba[[ZZXYZ[`afgggggggggfgggfffffffffffffffffffffgffggggfa`_YYXWUVWX]^cddddddddddddccccccccccccccccccccccccccdccc^\[VUUT@AABGIMNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMNNNNNHGFAA@?<==>CEJJJJJJJJJJJJJJJIIIIIIIIIIIIIIIIIIIIIIJJJJJJECB==<;789:?@EFFFFFFFFFFFEEEEEEEEEEEEEEEEEEEEEEEEEEFEFEE@?>9877
+0x00a5af50	0x40a5af50	EFGHNPUWWWWWXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXWWVVPNMGFEDIJKLRSYZZ[[[[[[[\\[\[[[[[[[[[[[[[[\\[\\\\\[[[[[ZZTRQKJIH_abcikqrrssssssttsstssssssssssssssssssssssssssrrqkjhba`^fghiprwxxyzyyzzzzzzzzzzyyzyzyyyzyyzyyyzyyyyyyyxxwqpnigfehjklrtz{z{{|||||||||{{{{{{{{{{{{{{{{{{|||{{{{{{zztrqkjhgjklmsu{||||||}||||||||||||||||||||||||||||||||||{usrlkjilmnovw}}}~~~~~~~~~~~}}}}}}}}}}}}}}}}}}}}~~~~~~~}}wutnmlkmnopvw}}}}}}}~}}}}}}}}}}|}||||}}}}}}||}||}}}}}}}}wutonmlnopqwx}~~~~~~~~~~~}}}}}}|||||||}}|||}}}}}}}}}~~~}xvuponmnoopvw}}}}}}}}}}}}|||||{||{|||{|{{{{{||{{||||}}}|wutonmlmnopvw|}}||||||||{{{{{zzz{{{z{zzzzzzzzzzzzz{{|{||vutonmlmnopuv{||{|{{{{{{zzzzzzyzzzzzzyyyyyyyyyyyyyzzzz{{utsnnllmnoouv{{{{{{zzzzzzyyyyyyyyyyyyxyxxxxxxxxxxxyyyyyzutsmmllmmnotuzzzzzzzyyyxxxxxxwxwxwwxwwwwwwwwwwwwwwwxxxxxsrqmllkllmmstyyyyxxxxwwwwwwvvvvvvvvvvvvuvvvvvuvvuvvvvwwwrqplkkjkkklqrwwwwwvvvvuuuuuuutttttuttttttttttttttttttuuvqpojjiijjjkppuvvvuuuttttsssssssssssssrrrrsrsrrrrssssssstonmiihhhiiinotttttsssrrrrrrqqqqqrrqqqppqqqqqqqqqqqqqqqrrmllggffgghhmmrrrrrrqqqqppppppppppppppooooooopooooopppppqlkjfeeeffffklpqppqpppoooooonnoooooooonnnnnnnnnnnnnnnnooojiiddddeeeejjoonnnnnnnnmmmmmmmnmnnnnmmmmmmllmmllllmmmmmmihgcbbbcccchinnmmmllllllllllllllllllllllllkkkkkkkkklllllgfeaaaabbbbghllkklkkkkkkkkkkkkkkkkkkkkjjjjjijjijjjjjjjjkfed`````aaaffkkjjjjjjjjjjjjjjjjjjjjjjiiiiiiiiihhhhiiiiiiedc^^^__`_`deijiiiiiihiiiiiiiiiiiiiihhhhhhgghhgggggghghhcba]]]^^_^^cchihhhhhhghhhhhhhhhhhhhhgggfggffffffffffffggba`\\\]]]]]bbggggggfgffggggggfggfggffffeefeeeeeeeefeefffa`_[[\\]]\]abfgffffffffffffffefffeeeeeeedeeeeddddeeeeeee`__[[[[\\[\aaefeeeeeeedeeeeeeedeedddddddddccdcdccddddddd`^^ZZZ[[[[[``eeedddddddddddddddcddcdcccccccccbbccccccccd_^]ZZZ[Z[Z[_`ddddcccccccccccccbcccccbbbbbbbbbbbbbbbccccc_^]YZZZZZZZ^_ccccbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaabbbbbb^]]YYZZZZZZ^^ccbbbbbbaaabaaaaaaaabbbaaa``aaaa``a`aaabbbb^]]YYZZZZYY]^bbbaaaaaaaaaaaaaaaaaaaaa`a````````````aabbb^]\YYYYYYYY]]bbaa`a```````````_``_``__`__________```aaab^]\XXXXXYXX\]aa```_________^^____^_^^^____^^______```aaa]\\XXXXXXXX\\````____^^^^]^]]]]]]]]]]]^^^^^^^^^_^___``aa]\[WWWWVWWW[\``___^^^]]]]]\\\\\\\\\]\\\\\]]]]]]^^^___```\[ZWVVVVVVV[[_`__^^^^]]]]]]\\\\[\\\\\\\\\\\\]]]]]^^^__``\[ZVVUUUUUVZ[___^^^]]]\\\\\[[[[[[[[\[[\[[\\\\]]]]]^^^___[ZYUUTTTTTUYZ^_^^^]]\\\[[[[[[[[[[Z[[[[[[[[[[\\\\\\]]]^^^ZYXTSSSRSSTXY]]]]]]]\[[ZZZZZZZZZZZZZZZZZZZZ[[[[[[\\\\]]]YXWSRRQPQQRVW[[[[[[[[ZYYYYYYXXYXXXYYXXXXXXYYYYYYZZZZ[[[[WVUPPPONOPPTVZZZZZZYYYXXXXXXXWXWWWXXXWXXXXXXXXXXYXYYYZZYUTSONNMKLMMRSWXWWWWWWVVVVVVUUUUUUUUUUUUUUUUUUUVVVVVVWWWWRQPLLKJ9::;@AEEEEEEEEDDDDDDCCCCCCCCCCCCBBCCCCCCCCDDDDEEE@?>::986678<=ABBBBAAAAAAA@@@@@@?@@@@????????@@@@@@AAAAAA=<;7655233489>>>>>>>>=======<<<<<<<<<<<<<<<<<<<======>==9873221
+0x00acae72	0x40acae72	IsEnableCreateFolder
+0x00acaeed	0x40acaeed	IsEnableCreateFolder
+0x00acb65d	0x40acb65d	IsEnableCreateNewDirectory
+0x00acf661	0x40acf661	IsHDRvalid
+0x00acf66c	0x40acf66c	IsRRSvalid
+0x00ad0b84	0x40ad0b84	AVI hdrlINFOISFThydthymnJUNKmoviReadFrameOfStreamData
+0x00ad0d70	0x40ad0d70	00dc01wbRIFFAVI AVIXLISThdrlavihstrlstrhstrfindxodmldmlhix00ix01moviidx1IDITINFOISFTvidsmjpgMJPGaudshydthymnJUNK
+0x00ad1027	0x40ad1027	SetStarStream
+0x00ad4865	0x40ad4865	ViewDirectRrsImage
+0x00ad48f1	0x40ad48f1	GradNdCommonProcess
+0x00ae078a	0x40ae078a	DumpGradNdParameter
+0x00ae0b40	0x40ae0b40	UpdateRrsResult
+0x00ae19f3	0x40ae19f3	IsEnableAeLock
+0x00ae1b18	0x40ae1b18	IsEnableDialControl
+0x00ae21ff	0x40ae21ff	CopyGradNdBayer
+0x00ae7913	0x40ae7913	@ !#$%'()+,-/0134 "$&(*,.024TransUserData2GradNd
+0x00ae7b4e	0x40ae7b4e	IsEnableGpsBulbMode
+0x00ae89c4	0x40ae89c4	SetupAstroTracerType3PreCaptureExposure
+0x00aedd34	0x40aedd34	HdrImageCombine
+0x00af0df1	0x40af0df1	  !!"##$$%&&''())*++,,-../0011233455677899:;;<==>??@ABBCDDEFGGHIIJKLLMNOOPQRRSTUVVWXYYZ[\]]^_`abbcdefghhijklmnoppqrstuvwxyz{|}~
+0x00af7f9c	0x40af7f9c	HdrTest
+0x00b30b38	0x40b30b38	                !!!!!!!!!!!!!!!!""""""""""""""""################$$$$$$$$$$$$$$$$%%%%%%%%%%%%%%%%&&&&&&&&&&&&&&&&''''''''''''''''(((((((((((((((())))))))))))))))****************++++++++++++++++,,,,,,,,,,,,,,,,----------------................////////////////0000000000000000111111111111111122222222222222223333333333333333444444444444444455555555555555556666666666666666777777777777777788888888888888889999999999999999::::::::::::::::;;;;;;;;;;;;;;;;<<<<<<<<<<<<<<<<================>>>>>>>>>>>>>>>>????????????????@@@@@@@@@@@@@@@@AAAAAAAAAAAAAAAABBBBBBBBBBBBBBBBCCCCCCCCCCCCCCCCDDDDDDDDDDDDDDDDEEEEEEEEEEEEEEEEFFFFFFFFFFFFFFFFGGGGGGGGGGGGGGGGHHHHHHHHHHHHHHHHIIIIIIIIIIIIIIIIJJJJJJJJJJJJJJJJKKKKKKKKKKKKKKKKLLLLLLLLLLLLLLLLMMMMMMMMMMMMMMMMNNNNNNNNNNNNNNNNOOOOOOOOOOOOOOOOPPPPPPPPPPPPPPPPQQQQQQQQQQQQQQQQRRRRRRRRRRRRRRRRSSSSSSSSSSSSSSSSTTTTTTTTTTTTTTTTUUUUUUUUUUUUUUUUVVVVVVVVVVVVVVVVWWWWWWWWWWWWWWWWXXXXXXXXXXXXXXXXYYYYYYYYYYYYYYYYZZZZZZZZZZZZZZZZ[[[[[[[[[[[[[[[[\\\\\\\\\\\\\\\\]]]]]]]]]]]]]]]]^^^^^^^^^^^^^^^^________________````````````````aaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbccccccccccccccccddddddddddddddddeeeeeeeeeeeeeeeeffffffffffffffffgggggggggggggggghhhhhhhhhhhhhhhhiiiiiiiiiiiiiiiijjjjjjjjjjjjjjjjkkkkkkkkkkkkkkkkllllllllllllllllmmmmmmmmmmmmmmmmnnnnnnnnnnnnnnnnooooooooooooooooppppppppppppppppqqqqqqqqqqqqqqqqrrrrrrrrrrrrrrrrssssssssssssssssttttttttttttttttuuuuuuuuuuuuuuuuvvvvvvvvvvvvvvvvwwwwwwwwwwwwwwwwxxxxxxxxxxxxxxxxyyyyyyyyyyyyyyyyzzzzzzzzzzzzzzzz{{{{{{{{{{{{{{{{||||||||||||||||}}}}}}}}}}}}}}}}~~~~~~~~~~~~~~~~
+0x00b3c736	0x40b3c736	    !!!""""###$$$$%%%&&&&''''((())))****+++,,,,----...////000011112223333444455556666777788889999:::;;;;<<<<====>>>>????@@@@@AAAABBBBCCCCDDDDEEEEFFFFGGGGHHHHHIIIIJJJJKKKKLLLLLMMMMNNNNOOOOOPPPPQQQQRRRRRSSSSTTTTTUUUUUVVVVVWWWWWXXXXXYYYYYZZZZZ[[[[[\\\\\]]]]]]^^^^^______`````aaaaaabbbbbbccccccddddddeeeeeeffffffgggggghhhhhhiiiiiiijjjjjjkkkkkkklllllllmmmmmmmnnnnnnnooooooopppppppqqqqqqqrrrrrrrrsssssssttttttttuuuuuuuuvvvvvvvwwwwwwwwxxxxxxxxxyyyyyyyyzzzzzzzz{{{{{{{{{||||||||}}}}}}}}}~~~~~~~~~
+0x00b3d78a	0x40b3d78a	   !!!!""""###$$$$%%%%&&&''''(((()))****+++,,,,----...////00011112223333444555566677778889999:::;;;;<<<====>>>????@@@AAAABBBCCCDDDDEEEFFFFGGGHHHHIIIJJJKKKKLLLMMMMNNNOOOOPPPPQQQRRRRSSSTTTTUUUUVVVVWWWXXXXYYYYZZZZ[[[[\\\\]]]]^^^^____````aaaabbbbcccccddddeeeefffffgggghhhhiiiiijjjjkkkkklllllmmmmnnnnnoooooppppqqqqqrrrrrssssstttttuuuuuvvvvvwwwwwxxxxxyyyyyyzzzzz{{{{{{|||||}}}}}}~~~~~
+0x00cde781	0x40cde781	   !!!""""###$$$$%%%&&&&'''(((()))****+++,,,,----...////00001112222333344445556666777788889999:::;;;;<<<<====>>>>????@@@@AAAABBBBCCCCDDDDEEEEFFFFGGGGHHHHIIIIJJJJKKKKKLLLLMMMMNNNNOOOOPPPPPQQQQRRRRSSSSSTTTTUUUUUVVVVWWWWWXXXXXYYYYYZZZZZ[[[[[\\\\\]]]]]^^^^^_____``````aaaaabbbbbbcccccddddddeeeeeeffffffgggggghhhhhhiiiiiijjjjjjkkkkkkkllllllmmmmmmmnnnnnnooooooopppppppqqqqqqqrrrrrrrssssssstttttttuuuuuuuuvvvvvvvwwwwwwwwxxxxxxxxyyyyyyyzzzzzzzz{{{{{{{{|||||||||}}}}}}}}~~~~~~~~
+0x00d03e65	0x40d03e65	 !"#%&'()*+,-.//0123456789::;<=>?@@ABCDDEFGHHIJJKLMMNOOPQQRSSTUUVVWXXYYZ[[\\]]^^__``aabbccddeeffgghhhiijjkkkllmmmnnnoopppqqqrrrssstttuuuvvvvwwwxxxyyyyzzzz{{{{||||}}}}~~~~
+0x00d0f969	0x40d0f969	AstroPhoto
+0x00d0ff31	0x40d0ff31	IsValidGradNd
+0x00d1942e	0x40d1942e	IsEnableScreenModeValidLayer
+0x00d194ec	0x40d194ec	IsEnableScreenModeValidLayer
+0x00d1c285	0x40d1c285	GetFilterHdr
+0x00d1c79b	0x40d1c79b	GetFilterHDRUserData
+0x00d1c7b0	0x40d1c7b0	GetFilterHDRCamControl
+0x00d1c958	0x40d1c958	HTTPRequestWrapper_SetGradND
+0x00d1d45d	0x40d1d45d	RIFFLISTJUNKAVI hdrlINFOhydtmovihymnReadSubImage
+0x00d1de27	0x40d1de27	IsEnabled
+0x00d1deaa	0x40d1deaa	IsEnabled
+0x00d1def8	0x40d1def8	IsEnabled
+0x00d1df2f	0x40d1df2f	IsEnabled
+0x00d2173a	0x40d2173a	 "$&')*,-.0123456789:;<<=>?@@ABCCDEFFGHHIIJKKLLMNNOOPPQRRSSTTUUVVWWXXYYZZ[[[\\]]^^___``aaabbccdddeefffgghhhiijjkkkllmmnnnooppqqrrsstttuuvvwwxxyyzz{{||}}~
+0x00d21853	0x40d21853	 !""#$%%&'(()**++,--../0011223445566778899::;;<<===>>??@@AAABBCCCDDEEFFFGGHHHIIJJJKKLLMMMNNOOPPPQQRRSSTTUUVVVWWXXYYZZ[[\\]]^^__`aabbccddeefgghhijjkklmmnnoppqrrsttuvvwxyyz{||}~
+0x00d21953	0x40d21953	 !""#$%%&'(()**++,--../0011223445566778899::;;<<===>>??@@AAABBCCCDDEEFFFGGHHHIIJJJKKLLMMMNNOOPPPQQRRSSTTUUVVVWWXXYYZZ[[\\]]^^__`aabbccddeefgghhijjkklmmnnoppqrrsttuvvwxyyz{||}~
+0x00df55e4	0x40df55e4	GetSelectingGroup() == AstroPhotoParameter::Group_StarBrightness
+0x00df579c	0x40df579c	<HDR mode>
+0x00df7094	0x40df7094	[HDR]
+0x00df89f0	0x40df89f0	RECIPE_PROCESS_RRS_REFERENCE_YCC_END
+0x00df8a3c	0x40df8a3c	RECIPE_PROCESS_RRS_MAIN_BAYER_END
+0x00df8a60	0x40df8a60	RECIPE_PROCESS_HDR_3SHOOTS_END
+0x00df8cf8	0x40df8cf8	eCaptureBuffer_Rrs_Ycc
+0x00df8d9c	0x40df8d9c	eBackEndPipe_GradNd
+0x00df91b0	0x40df91b0	eCaptureBuffer_Rrs_Work
+0x00df9314	0x40df9314	eCaptureBuffer_Rrs_Map
+0x00df9348	0x40df9348	eCaptureBuffer_HDRYCbCr
+0x00df9434	0x40df9434	eBackEndPipe_Hdr
+0x00df94f8	0x40df94f8	eCaptureBuffer_Rrs_Bayer
+0x00df9514	0x40df9514	eCaptureBuffer_GradNdBayer
+0x00df9810	0x40df9810	arpcSrcShootingInfo[CDevelopmentRawImageConfig::eDevelopmentRawImageType_HDRUnder] && arpcSrcShootingInfo[CDevelopmentRawImageConfig::eDevelopmentRawImageType_HDROver ]
+0x00df98bc	0x40df98bc	arpcDevRecipe[CDevelopmentRawImageConfig::eDevelopmentRawImageType_RRS2] && arpcDevRecipe[CDevelopmentRawImageConfig::eDevelopmentRawImageType_RRS3] && arpcDevRecipe[CDevelopmentRawImageConfig::eDevelopmentRawImageType_RRS4]
+0x00df99a0	0x40df99a0	arpcSrcShootingInfo[CDevelopmentRawImageConfig::eDevelopmentRawImageType_RRS2] && arpcSrcShootingInfo[CDevelopmentRawImageConfig::eDevelopmentRawImageType_RRS3] && arpcSrcShootingInfo[CDevelopmentRawImageConfig::eDevelopmentRawImageType_RRS4]
+0x00df9a94	0x40df9a94	ardwSrcBufferAddress[CDevelopmentRawImageConfig::eDevelopmentRawImageType_RRS2] && ardwSrcBufferAddress[CDevelopmentRawImageConfig::eDevelopmentRawImageType_RRS3] && ardwSrcBufferAddress[CDevelopmentRawImageConfig::eDevelopmentRawImageType_RRS4]
+0x00df9b8c	0x40df9b8c	arpcDevRecipe[CDevelopmentRawImageConfig::eDevelopmentRawImageType_HDRUnder] && arpcDevRecipe[CDevelopmentRawImageConfig::eDevelopmentRawImageType_HDROver]
+0x00df9c28	0x40df9c28	ardwSrcBufferAddress[CDevelopmentRawImageConfig::eDevelopmentRawImageType_HDRUnder] && ardwSrcBufferAddress[CDevelopmentRawImageConfig::eDevelopmentRawImageType_HDROver]
+0x00df9ec0	0x40df9ec0	BPS_Rrs_Ycc
+0x00df9f1c	0x40df9f1c	BPS_Rrs_Work
+0x00df9f38	0x40df9f38	BPS_Rrs_Map
+0x00df9f58	0x40df9f58	BPS_HDRYCbCr
+0x00df9fbc	0x40df9fbc	BPS_Rrs_Bayer
+0x00df9fdc	0x40df9fdc	BPS_GradNdBayer
+0x00dfa00c	0x40dfa00c	BPS_GradNdOriginBayer
+0x00dfa17c	0x40dfa17c	(tRrsResult.m_bPostProcess == HR_CATEGORY_POSTPROCESS_REPLACE_ERROR) || (tRrsResult.m_bPostProcess == HR_CATEGORY_POSTPROCESS_NONE)
+0x00dfa378	0x40dfa378	m_ardwBufferRequiredSize[eCaptureBuffer_Rrs_Ycc] >= m_ardwBufferRequiredSize[eCaptureBuffer_Ela_BayerDomain]
+0x00dfa8e4	0x40dfa8e4	m_pcMultipleImageProcessService->GetMultipleImageProcessDriver()->IsEnableAccessHistogram()
+0x00dfa940	0x40dfa940	pcMultipleImageProcessDriver && pcMultipleImageProcessDriver->IsEnableAccessHistogram()
+0x00dfadc0	0x40dfadc0	A:\Jpeg\GradNd.jpg
+0x00dfb294	0x40dfb294	[0:Nop, 1:Wifi, 2:Crop, 3:SR, 4:Grid, 5:HDR, 6:Bracket, 7:Continuous, 8:ISO, 9:Xv, 0xff:Reset]
+0x00dfb3d8	0x40dfb3d8	gradND
+0x00dfca80	0x40dfca80	starstreamSelf
+0x00dfcb14	0x40dfcb14	satobi
+0x00dfcb64	0x40dfcb64	starstream
+0x00dfcbc4	0x40dfcbc4	starstreamRemocon

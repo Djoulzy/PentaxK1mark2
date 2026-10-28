@@ -1,0 +1,33 @@
+407fecc4  stmdb sp!,{r4,r5,r6,r7,r8,r9,r10,lr}
+407fecc8  cpy r7,r1
+407feccc  cpy r8,r0
+407fecd0  mov r4,#0x1
+407fecd4  bl 0x408d9950
+407fecd8  cpy r9,r0
+407fecdc  cpy r0,r7
+407fece0  bl 0x407fea08
+407fece4  ldr r6,[0x407fec5c]
+407fece8  add r0,r6,r0, lsl #0x4
+407fecec  ldrb r5,[r0,#0x1]
+407fecf0  cpy r0,r7
+407fecf4  bl 0x407fea08
+407fecf8  ldrb r6,[r6,r0,lsl #0x4]
+407fecfc  cpy r1,r5
+407fed00  cpy r0,r9
+407fed04  bl 0x408d9998
+407fed08  cmp r0,#0x0
+407fed0c  beq 0x407fed24
+407fed10  cpy r1,r6
+407fed14  cpy r0,r9
+407fed18  bl 0x408d9a9c
+407fed1c  cmp r0,#0x0
+407fed20  bne 0x407fed28
+407fed24  mov r4,#0x0
+407fed28  ldr r1,[0x407ff114]
+407fed2c  cpy r0,r8
+407fed30  bl 0x405f603c
+407fed34  ldr r1,[r0,#0x0]
+407fed38  ldr r2,[r1,#0xc]
+407fed3c  cpy r1,r4
+407fed40  ldmia sp!,{r4,r5,r6,r7,r8,r9,r10,lr}
+407fed44  bx r2

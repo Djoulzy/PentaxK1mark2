@@ -1,0 +1,20 @@
+40634460  add r0,r0,r1, lsl #0x2
+40634464  ldr r0,[r0,#0x8]
+40634468  bx lr
+4094854c  ldr r0,[r0,#0xc]
+40948550  b 0x40634460
+409e0a58  ldr r0,[r0,#0x4]
+409e0a5c  b 0x4094854c
+409e0b7c  cmp r0,#0x1
+409e0b80  mvn r0,#0x0
+409e0b84  stmdb sp!,{r4,lr}
+409e0b88  ldmiale sp!,{r4,pc}
+409e0b8c  mov r2,#0x0
+409e0b90  ldr r0,[r1,#0x4]
+409e0b94  cpy r1,r2
+409e0b98  blx 0x4020c174
+409e0b9c  cpy r4,r0
+409e0ba0  bl 0x409e072c
+409e0ba4  cpy r1,r4
+409e0ba8  ldmia sp!,{r4,lr}
+409e0bac  b 0x409e0a58

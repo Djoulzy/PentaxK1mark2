@@ -1,0 +1,1009 @@
+table_offset	text_offset	decoded_ascii_glyphs
+0x00f096b4	0x00e966a2	Memory card full
+0x00f09754	0x00e966b3	Image folder cannot be created
+0x00f097f4	0x00e966d2	Card is locked
+0x00f09894	0x00e966e1	Card is electronically locked
+0x00f09934	0x00e966ff	Card is not formatted
+0x00f099d4	0x00e96715	Cannot use this card
+0x00f09a74	0x00e9672a	Memory card error
+0x00f09b14	0x00e9673c	Check
+0x00f09bb4	0x00e96742	OK
+0x00f09c54	0x00e96745	Details
+0x00f09cf4	0x00e9674d	Exit
+0x00f09d94	0x00e96752	Adjust
+0x00f09e34	0x00e96759	Delete
+0x00f09ed4	0x00e96760	Start
+0x00f09f74	0x00e96766	Stop
+0x00f0a014	0x00e9676b	Start
+0x00f0a0b4	0x00e96771	Parameter Adj.
+0x00f0a154	0x00e96780	On
+0x00f0a1f4	0x00e96783	Off
+0x00f0a294	0x00e96787	Auto
+0x00f0a334	0x00e9678c	Std.
+0x00f0a3d4	0x00e96791	Optional
+0x00f0a474	0x00e9679a	1sec.
+0x00f0a514	0x00e967a0	3sec.
+0x00f0a5b4	0x00e967a6	5sec.
+0x00f0a654	0x00e967ac	10sec.
+0x00f0a6f4	0x00e967b3	15sec.
+0x00f0a794	0x00e967ba	30sec.
+0x00f0a834	0x00e967c1	1min.
+0x00f0a8d4	0x00e967c7	3min.
+0x00f0a974	0x00e967cd	5min.
+0x00f0aa14	0x00e967d3	10min.
+0x00f0aab4	0x00e967da	30min.
+0x00f0ab54	0x00e967e1	Hold
+0x00f0abf4	0x00e967e6	x2
+0x00f0ac94	0x00e967e9	x4
+0x00f0ad34	0x00e967ec	x8
+0x00f0add4	0x00e967ef	x16
+0x00f0ae74	0x00e967f3	100%
+0x00f0af14	0x00e967f8	Manual
+0x00f0afb4	0x00e967ff	Normal
+0x00f0b054	0x00e96806	Type1
+0x00f0b0f4	0x00e9680c	Type2
+0x00f0b194	0x00e96812	Type3
+0x00f0b234	0x00e96818	Custom 1
+0x00f0b2d4	0x00e96821	Custom 2
+0x00f0b374	0x00e9682a	Custom 3
+0x00f0b414	0x00e96833	Low
+0x00f0b4b4	0x00e96837	Medium
+0x00f0b554	0x00e9683e	High
+0x00f0b5f4	0x00e96843	Save Settings
+0x00f0b694	0x00e96851	Settings complete
+0x00f0b734	0x00e96863	Continue
+0x00f0b7d4	0x00e9686c	Save
+0x00f0b874	0x00e96871	Save to SD1
+0x00f0b914	0x00e9687d	Save to SD2
+0x00f0b9b4	0x00e96889	Discard
+0x00f0ba54	0x00e96891	Save
+0x00f0baf4	0x00e96896	Check Saved Settings
+0x00f0bb94	0x00e968ab	SD1
+0x00f0bc34	0x00e968af	SD2
+0x00f0bcd4	0x00e968b3	Select single image
+0x00f0bd74	0x00e968c7	Select multiple images
+0x00f0be14	0x00e968de	Select image(s)
+0x00f0beb4	0x00e968ee	Select a folder
+0x00f0bf54	0x00e968fe	Cancel
+0x00f0bff4	0x00e96905	Initial Setting
+0x00f0c094	0x00e96915	Language/~<glyph:61>
+0x00f0c134	0x00e96921	English
+0x00f0c1d4	0x00e96929	World Time
+0x00f0c274	0x00e96934	World Time
+0x00f0c314	0x00e9693f	Time Setting
+0x00f0c3b4	0x00e9694c	Destination
+0x00f0c454	0x00e96958	Hometown
+0x00f0c4f4	0x00e96961	DST
+0x00f0c594	0x00e96965	Lisbon
+0x00f0c634	0x00e9696c	Madrid
+0x00f0c6d4	0x00e96973	London
+0x00f0c774	0x00e9697a	Paris
+0x00f0c814	0x00e96980	Amsterdam
+0x00f0c8b4	0x00e9698a	Milan
+0x00f0c954	0x00e96990	Rome
+0x00f0c9f4	0x00e96995	Copenhagen
+0x00f0ca94	0x00e969a0	Berlin
+0x00f0cb34	0x00e969a7	Prague
+0x00f0cbd4	0x00e969ae	Stockholm
+0x00f0cc74	0x00e969b8	Budapest
+0x00f0cd14	0x00e969c1	Warsaw
+0x00f0cdb4	0x00e969c8	Athens
+0x00f0ce54	0x00e969cf	Helsinki
+0x00f0cef4	0x00e969d8	Moscow
+0x00f0cf94	0x00e969df	Dakar
+0x00f0d034	0x00e969e5	Algiers
+0x00f0d0d4	0x00e969ed	Johannesburg
+0x00f0d174	0x00e969fa	Istanbul
+0x00f0d214	0x00e96a03	Cairo
+0x00f0d2b4	0x00e96a09	Jerusalem
+0x00f0d354	0x00e96a13	Nairobi
+0x00f0d3f4	0x00e96a1b	Jeddah
+0x00f0d494	0x00e96a22	Tehran
+0x00f0d534	0x00e96a29	Dubai
+0x00f0d5d4	0x00e96a2f	Karachi
+0x00f0d674	0x00e96a37	Kabul
+0x00f0d714	0x00e96a3d	Male
+0x00f0d7b4	0x00e96a42	Delhi
+0x00f0d854	0x00e96a48	Colombo
+0x00f0d8f4	0x00e96a50	Kathmandu
+0x00f0d994	0x00e96a5a	Dacca
+0x00f0da34	0x00e96a60	Yangon
+0x00f0dad4	0x00e96a67	Bangkok
+0x00f0db74	0x00e96a6f	Kuala Lumpur
+0x00f0dc14	0x00e96a7c	Vientiane
+0x00f0dcb4	0x00e96a86	Singapore
+0x00f0dd54	0x00e96a90	Phnom Penh
+0x00f0ddf4	0x00e96a9b	Ho chi Minh
+0x00f0de94	0x00e96aa7	Jakarta
+0x00f0df34	0x00e96aaf	Hong Kong
+0x00f0dfd4	0x00e96ab9	Beijing
+0x00f0e074	0x00e96ac1	Shanghai
+0x00f0e114	0x00e96aca	Manila
+0x00f0e1b4	0x00e96ad1	Taipei
+0x00f0e254	0x00e96ad8	Seoul
+0x00f0e2f4	0x00e96ade	Tokyo
+0x00f0e394	0x00e96ae4	Guam
+0x00f0e434	0x00e96ae9	Perth
+0x00f0e4d4	0x00e96aef	Adelaide
+0x00f0e574	0x00e96af8	Sydney
+0x00f0e614	0x00e96aff	Noumea
+0x00f0e6b4	0x00e96b06	Wellington
+0x00f0e754	0x00e96b11	Auckland
+0x00f0e7f4	0x00e96b1a	Pago Pago
+0x00f0e894	0x00e96b24	Honolulu
+0x00f0e934	0x00e96b2d	Anchorage
+0x00f0e9d4	0x00e96b37	Vancouver
+0x00f0ea74	0x00e96b41	San Francisco
+0x00f0eb14	0x00e96b4f	Los Angeles
+0x00f0ebb4	0x00e96b5b	Calgary
+0x00f0ec54	0x00e96b63	Denver
+0x00f0ecf4	0x00e96b6a	Chicago
+0x00f0ed94	0x00e96b72	Miami
+0x00f0ee34	0x00e96b78	Toronto
+0x00f0eed4	0x00e96b80	New York
+0x00f0ef74	0x00e96b89	Halifax
+0x00f0f014	0x00e96b91	Mexico City
+0x00f0f0b4	0x00e96b9d	Lima
+0x00f0f154	0x00e96ba2	Santiago
+0x00f0f1f4	0x00e96bab	Caracas
+0x00f0f294	0x00e96bb3	Buenos Aires
+0x00f0f334	0x00e96bc0	Sao Paulo
+0x00f0f3d4	0x00e96bca	Rio de Janeiro
+0x00f0f474	0x00e96bd9	Date Adjustment
+0x00f0f514	0x00e96be9	Date Adjustment
+0x00f0f5b4	0x00e96bf9	Date Format
+0x00f0f654	0x00e96c05	yy/mm/dd
+0x00f0f6f4	0x00e96c0e	mm/dd/yy
+0x00f0f794	0x00e96c17	dd/mm/yy
+0x00f0f834	0x00e96c20	Date
+0x00f0f8d4	0x00e96c25	Time
+0x00f0f974	0x00e96c2a	Text Size
+0x00f0fa14	0x00e96c34	Text Size
+0x00f0fab4	0x00e96c3e	Large
+0x00f0fb54	0x00e96c44	Standard Information Display
+0x00f0fbf4	0x00e96c61	No Information Display
+0x00f0fc94	0x00e96c78	Display Off
+0x00f0fd34	0x00e96c84	Electronic Compass
+0x00f0fdd4	0x00e96c97	Status Screen
+0x00f0fe74	0x00e96ca5	Flash Mode
+0x00f0ff14	0x00e96cb0	Flash Mode
+0x00f0ffb4	0x00e96cbb	Flash On
+0x00f10054	0x00e96cc4	Flash On+Red-eye
+0x00f100f4	0x00e96cd5	Slow-speed Sync
+0x00f10194	0x00e96ce5	Slow Sync+Red-eye
+0x00f10234	0x00e96cf7	Auto Flash Discharge
+0x00f102d4	0x00e96d0c	Auto Flash+Red-eye
+0x00f10374	0x00e96d1f	Single Frame Shooting
+0x00f10414	0x00e96d35	Continuous Shooting (H)
+0x00f104b4	0x00e96d4d	Continuous Shooting (M)
+0x00f10554	0x00e96d65	Continuous Shooting (L)
+0x00f105f4	0x00e96d7d	Self-timer (12 sec.)
+0x00f10694	0x00e96d92	Self-timer (2 sec.)
+0x00f10734	0x00e96da6	Self-timer + Continuous
+0x00f107d4	0x00e96dbe	Remote Control
+0x00f10874	0x00e96dcd	Remote Control (3 sec. delay)
+0x00f10914	0x00e96deb	Remote Continuous Shooting
+0x00f109b4	0x00e96e06	Remote Control Off
+0x00f10a54	0x00e96e19	Bracketing
+0x00f10af4	0x00e96e24	Mirror Lock-up Shooting
+0x00f10b94	0x00e96e3c	Multi-exposure
+0x00f10c34	0x00e96e4b	Interval Composite
+0x00f10cd4	0x00e96e5e	Composite Mode
+0x00f10d74	0x00e96e6d	Additive
+0x00f10e14	0x00e96e76	Average
+0x00f10eb4	0x00e96e7e	Bright
+0x00f10f54	0x00e96e85	Save Process
+0x00f10ff4	0x00e96e92	Shooting Speed
+0x00f11094	0x00e96ea1	Number of Shots
+0x00f11134	0x00e96eb1	times
+0x00f111d4	0x00e96eb7	Interval Shooting
+0x00f11274	0x00e96ec9	Interval
+0x00f11314	0x00e96ed2	Standby Interval
+0x00f113b4	0x00e96ee3	Start Interval
+0x00f11454	0x00e96ef2	Start Time
+0x00f114f4	0x00e96efd	Current Time
+0x00f11594	0x00e96f0a	Minimum
+0x00f11634	0x00e96f12	Interval Movie Record
+0x00f116d4	0x00e96f28	Star Stream
+0x00f11774	0x00e96f34	Fade-out
+0x00f11814	0x00e96f3d	Auto White Balance
+0x00f118b4	0x00e96f50	Multi Auto White Balance
+0x00f11954	0x00e96f69	Daylight
+0x00f119f4	0x00e96f72	Shade
+0x00f11a94	0x00e96f78	Cloudy
+0x00f11b34	0x00e96f7f	Fluorescent - Daylight Color
+0x00f11bd4	0x00e96f9c	Fluorescent - Daylight White
+0x00f11c74	0x00e96fb9	Fluorescent - Cool White
+0x00f11d14	0x00e96fd2	Fluorescent - Warm White
+0x00f11db4	0x00e96feb	Tungsten
+0x00f11e54	0x00e96ff4	CTE
+0x00f11ef4	0x00e96ff8	Color Temperature
+0x00f11f94	0x00e9700a	Manual White Balance
+0x00f12034	0x00e9701f	Custom Image
+0x00f120d4	0x00e9702c	Bright
+0x00f12174	0x00e97033	Natural
+0x00f12214	0x00e9703b	Portrait
+0x00f122b4	0x00e97044	Landscape
+0x00f12354	0x00e9704e	Vibrant/MIYABI
+0x00f123f4	0x00e9705d	SATOBI
+0x00f12494	0x00e97064	Gold
+0x00f12534	0x00e97069	HARUBENI
+0x00f125d4	0x00e97072	KATEN
+0x00f12674	0x00e97078	KYUSHU
+0x00f12714	0x00e9707f	FUYUNO
+0x00f127b4	0x00e97086	Radiant
+0x00f12854	0x00e9708e	Muted
+0x00f128f4	0x00e97094	Bleach Bypass
+0x00f12994	0x00e970a2	Reversal Film
+0x00f12a34	0x00e970b0	Monochrome
+0x00f12ad4	0x00e970bb	Cross Processing
+0x00f12b74	0x00e970cc	Auto Select
+0x00f12c14	0x00e970d8	Flat
+0x00f12cb4	0x00e970dd	Saturation
+0x00f12d54	0x00e970e8	Hue
+0x00f12df4	0x00e970ec	High/Low Key Adj
+0x00f12e94	0x00e970fd	Contrast
+0x00f12f34	0x00e97106	Sharpness
+0x00f12fd4	0x00e97110	Fine Sharpness
+0x00f13074	0x00e9711f	Extra Sharpness
+0x00f13114	0x00e9712f	Filter Effect
+0x00f131b4	0x00e9713d	Toning
+0x00f13254	0x00e97144	Highlight Adjustment
+0x00f132f4	0x00e97159	Shadow Adjustment
+0x00f13394	0x00e9716b	Green
+0x00f13434	0x00e97171	Yellow
+0x00f134d4	0x00e97178	Orange
+0x00f13574	0x00e9717f	Red
+0x00f13614	0x00e97183	Magenta
+0x00f136b4	0x00e9718b	Purple
+0x00f13754	0x00e97192	Blue
+0x00f137f4	0x00e97197	Cyan
+0x00f13894	0x00e9719c	None
+0x00f13934	0x00e971a1	Infrared Filter
+0x00f139d4	0x00e971b1	Random
+0x00f13a74	0x00e971b8	Preset 1
+0x00f13b14	0x00e971c1	Preset 2
+0x00f13bb4	0x00e971ca	Preset 3
+0x00f13c54	0x00e971d3	Favorite 1
+0x00f13cf4	0x00e971de	Favorite 2
+0x00f13d94	0x00e971e9	Favorite 3
+0x00f13e34	0x00e971f4	As Shot
+0x00f13ed4	0x00e971fc	Digital Filter
+0x00f13f74	0x00e9720b	Digital Filter
+0x00f14014	0x00e9721a	No Filter
+0x00f140b4	0x00e97224	Toy Camera
+0x00f14154	0x00e9722f	Retro
+0x00f141f4	0x00e97235	High Contrast
+0x00f14294	0x00e97243	Soft
+0x00f14334	0x00e97248	Fish-eye
+0x00f143d4	0x00e97251	Shading
+0x00f14474	0x00e97259	Extract Color
+0x00f14514	0x00e97267	Sketch
+0x00f145b4	0x00e9726e	Water Color
+0x00f14654	0x00e9727a	Posterization
+0x00f146f4	0x00e97288	Miniature
+0x00f14794	0x00e97292	Slim
+0x00f14834	0x00e97297	Invert Color
+0x00f148d4	0x00e972a4	Pastel
+0x00f14974	0x00e972ab	Starburst
+0x00f14a14	0x00e972b5	Tone Expansion
+0x00f14ab4	0x00e972c4	Bold Monochrome
+0x00f14b54	0x00e972d4	Unicolor Bold
+0x00f14bf4	0x00e972e2	Base Parameter Adj
+0x00f14c94	0x00e972f5	Replace Color
+0x00f14d34	0x00e97303	Shading Level
+0x00f14dd4	0x00e97311	Blur
+0x00f14e74	0x00e97316	Tone Break
+0x00f14f14	0x00e97321	Frame Composite
+0x00f14fb4	0x00e97331	Soft Focus
+0x00f15054	0x00e9733c	Shadow Blur
+0x00f150f4	0x00e97348	Shading Type
+0x00f15194	0x00e97355	Extracted Color 1
+0x00f15234	0x00e97367	Color Scale 1
+0x00f152d4	0x00e97375	Extracted Color 2
+0x00f15374	0x00e97387	Color Scale 2
+0x00f15414	0x00e97395	Scratch Effect
+0x00f154b4	0x00e973a4	Intensity
+0x00f15554	0x00e973ae	In-Focus Plane
+0x00f155f4	0x00e973bd	In-Focus Width
+0x00f15694	0x00e973cc	In-Focus Plane Angle
+0x00f15734	0x00e973e1	Angle
+0x00f157d4	0x00e973e7	Effect Density
+0x00f15874	0x00e973f6	Size
+0x00f15914	0x00e973fb	Brightness
+0x00f159b4	0x00e97406	Original Color
+0x00f15a54	0x00e97415	New Color
+0x00f15af4	0x00e9741f	Color Scale
+0x00f15b94	0x00e9742b	Exposure Mode
+0x00f15c34	0x00e97439	Exposure Mode
+0x00f15cd4	0x00e97447	High Dynamic Range Image Capture
+0x00f15d74	0x00e97468	Advanced HDR
+0x00f15e14	0x00e97475	Bracket Value
+0x00f15eb4	0x00e97483	Auto Align
+0x00f15f54	0x00e9748e	Grad ND Simulator
+0x00f15ff4	0x00e974a0	Composites two images with\ndifferent exp. for each divided\narea to reduce exp. difference.
+0x00f16094	0x00e974fb	Reverse
+0x00f16134	0x00e97503	Line (Bright)
+0x00f161d4	0x00e97511	Line (Dark)
+0x00f16274	0x00e9751d	Darkens the specified area.
+0x00f16314	0x00e97539	Darkens the specified area.\nThe filter effect gradually decreases\ntoward the edge of the image.
+0x00f163b4	0x00e97599	Customizes the area to darken\nand the filter effect level.
+0x00f16454	0x00e975d4	Disables the Grad ND shooting.
+0x00f164f4	0x00e975f3	Max. Dimming Amount
+0x00f16594	0x00e97607	Img. Edge Dimming Amt.
+0x00f16634	0x00e9761e	Sets the image edge dimming amount\nwhen "Reverse" is set.
+0x00f166d4	0x00e97658	Pixel Shift Resolution
+0x00f16774	0x00e9766f	Pixel Shift Resolution
+0x00f16814	0x00e97686	Motion Correction On
+0x00f168b4	0x00e9769b	Motion Correction Off
+0x00f16954	0x00e976b1	Image Stabilization On
+0x00f169f4	0x00e976c8	Skin Tone
+0x00f16a94	0x00e976d2	Skin Tone
+0x00f16b34	0x00e976dc	Clarity
+0x00f16bd4	0x00e976e4	Memory Card Options
+0x00f16c74	0x00e976f8	Memory Card Options
+0x00f16d14	0x00e9770c	Sequential Use
+0x00f16db4	0x00e9771b	Save to Both
+0x00f16e54	0x00e97728	Separate RAW/JPEG
+0x00f16ef4	0x00e9773a	Crop
+0x00f16f94	0x00e9773f	Crop
+0x00f17034	0x00e97744	35mm Full-Frame
+0x00f170d4	0x00e97754	APS-C Size
+0x00f17174	0x00e9775f	1:1
+0x00f17214	0x00e97763	Image Capture Settings
+0x00f172b4	0x00e9777a	Image Capture Settings
+0x00f17354	0x00e97791	Aspect Ratio
+0x00f173f4	0x00e9779e	File Format
+0x00f17494	0x00e977aa	JPEG Recorded Pixels
+0x00f17534	0x00e977bf	JPEG Quality
+0x00f175d4	0x00e977cc	RAW File Format
+0x00f17674	0x00e977dc	PEF
+0x00f17714	0x00e977e0	DNG
+0x00f177b4	0x00e977e4	AE Metering
+0x00f17854	0x00e977f0	AE Metering
+0x00f178f4	0x00e977fc	Multi-segment
+0x00f17994	0x00e9780a	Center-weighted
+0x00f17a34	0x00e9781a	Spot
+0x00f17ad4	0x00e9781f	Phase Detection AF
+0x00f17b74	0x00e97832	Phase Detection AF
+0x00f17c14	0x00e97845	Contrast Detection AF
+0x00f17cb4	0x00e9785b	Contrast Detection AF
+0x00f17d54	0x00e97871	AF Assist Light
+0x00f17df4	0x00e97881	AF Assist Light
+0x00f17e94	0x00e97891	AF Mode
+0x00f17f34	0x00e97899	AF Active Area
+0x00f17fd4	0x00e978a8	Contrast AF
+0x00f18074	0x00e978b4	Auto (33 AF Points)
+0x00f18114	0x00e978c8	Zone Select
+0x00f181b4	0x00e978d4	Select
+0x00f18254	0x00e978db	Expanded Area AF (S)
+0x00f182f4	0x00e978f0	Expanded Area AF (M)
+0x00f18394	0x00e97905	Expanded Area AF (L)
+0x00f18434	0x00e9791a	Spot
+0x00f184d4	0x00e9791f	Multiple AF Points
+0x00f18574	0x00e97932	Face Detection
+0x00f18614	0x00e97941	Tracking
+0x00f186b4	0x00e9794a	Star AF
+0x00f18754	0x00e97952	Adds "Star AF" to\n"Contrast AF" option
+0x00f187f4	0x00e97979	AF Assist Light
+0x00f18894	0x00e97989	Focus Peaking
+0x00f18934	0x00e97997	Lens Correction
+0x00f189d4	0x00e979a7	Lens Correction
+0x00f18a74	0x00e979b7	Distortion Correction
+0x00f18b14	0x00e979cd	Lat-Chromatic-Ab Adj
+0x00f18bb4	0x00e979e2	Peripheral Illumin. Corr.
+0x00f18c54	0x00e979fc	Color Fringe Correction
+0x00f18cf4	0x00e97a14	Diffraction Correction
+0x00f18d94	0x00e97a2b	D-Range Settings
+0x00f18e34	0x00e97a3c	Dynamic Range Settings
+0x00f18ed4	0x00e97a53	Highlight Correction
+0x00f18f74	0x00e97a68	Shadow Correction
+0x00f19014	0x00e97a7a	ISO AUTO Setting
+0x00f190b4	0x00e97a8b	Adjustment Range
+0x00f19154	0x00e97a9c	ISO Range (Maximum)
+0x00f191f4	0x00e97ab0	ISO Range (Minimum)
+0x00f19294	0x00e97ac4	AUTO ISO (Maximum)
+0x00f19334	0x00e97ad7	AUTO ISO (Minimum)
+0x00f193d4	0x00e97aea	AUTO ISO Parameters
+0x00f19474	0x00e97afe	Fast
+0x00f19514	0x00e97b03	Slow
+0x00f195b4	0x00e97b08	Noise Reduction
+0x00f19654	0x00e97b18	Noise Reduction
+0x00f196f4	0x00e97b28	High-ISO NR
+0x00f19794	0x00e97b34	Custom
+0x00f19834	0x00e97b3b	Setting
+0x00f198d4	0x00e97b43	Applies Noise Reduction at\noptimally calculated levels\nthroughout ISO range
+0x00f19974	0x00e97b8f	Does not apply Noise Reduction\nat any ISO setting
+0x00f19a14	0x00e97bc1	Applies Noise Reduction at\nconstant chosen level\nthroughout ISO range
+0x00f19ab4	0x00e97c07	Applies Noise Reduction at\nuser-defined levels for each\nISO setting
+0x00f19b54	0x00e97c4b	Slow Shutter Speed NR
+0x00f19bf4	0x00e97c61	Program Line
+0x00f19c94	0x00e97c6e	Program Line
+0x00f19d34	0x00e97c7b	Hi-speed Priority
+0x00f19dd4	0x00e97c8d	DOF Priority (Deep)
+0x00f19e74	0x00e97ca1	DOF Priority (Shallow)
+0x00f19f14	0x00e97cb8	MTF Priority
+0x00f19fb4	0x00e97cc5	Electronic Level
+0x00f1a054	0x00e97cd6	Live View
+0x00f1a0f4	0x00e97ce0	Viewfinder
+0x00f1a194	0x00e97ceb	LV Electronic Shutter
+0x00f1a234	0x00e97d01	LV Electronic Shutter
+0x00f1a2d4	0x00e97d17	Composition Adjust.
+0x00f1a374	0x00e97d2b	Composition Adjustment
+0x00f1a414	0x00e97d42	Adjust the composition\nof the image
+0x00f1a4b4	0x00e97d66	Horizon Correction
+0x00f1a554	0x00e97d79	Automatic Horizon Correction
+0x00f1a5f4	0x00e97d96	AA Filter Simulator
+0x00f1a694	0x00e97daa	Anti-Aliasing Filter Simulator
+0x00f1a734	0x00e97dc9	Bracketing (2 images)
+0x00f1a7d4	0x00e97ddf	Bracketing (3 images)
+0x00f1a874	0x00e97df5	Shake Reduction
+0x00f1a914	0x00e97e05	Input Focal Length
+0x00f1a9b4	0x00e97e18	Input Focal Length
+0x00f1aa54	0x00e97e2b	Viewfinder Overlay
+0x00f1aaf4	0x00e97e3e	Transparent Viewfinder Overlay
+0x00f1ab94	0x00e97e5d	AF Frame
+0x00f1ac34	0x00e97e66	Spot Metering Frame
+0x00f1acd4	0x00e97e7a	AF Points
+0x00f1ad74	0x00e97e84	Live View
+0x00f1ae14	0x00e97e8e	Live View
+0x00f1aeb4	0x00e97e98	Grid Display
+0x00f1af54	0x00e97ea5	Grid Style
+0x00f1aff4	0x00e97eb0	4x4 Grid
+0x00f1b094	0x00e97eb9	Golden Section
+0x00f1b134	0x00e97ec8	Scale
+0x00f1b1d4	0x00e97ece	Square 1
+0x00f1b274	0x00e97ed7	Square 2
+0x00f1b314	0x00e97ee0	Grid Color
+0x00f1b3b4	0x00e97eeb	Histogram Display
+0x00f1b454	0x00e97efd	Instant Review
+0x00f1b4f4	0x00e97f0c	Instant Review
+0x00f1b594	0x00e97f1b	Display Time
+0x00f1b634	0x00e97f28	Zoom Review
+0x00f1b6d4	0x00e97f34	Save RAW Data
+0x00f1b774	0x00e97f42	Button Customization
+0x00f1b814	0x00e97f57	Button Customization
+0x00f1b8b4	0x00e97f6c	Fx1 Button
+0x00f1b954	0x00e97f77	Fx2 Button
+0x00f1b9f4	0x00e97f82	AF Button
+0x00f1ba94	0x00e97f8c	AF Button (Movie)
+0x00f1bb34	0x00e97f9e	Preview Dial
+0x00f1bbd4	0x00e97fab	One Push File Format
+0x00f1bc74	0x00e97fc0	Cancel after 1 shot
+0x00f1bd14	0x00e97fd4	Preview
+0x00f1bdb4	0x00e97fdc	Optical Preview
+0x00f1be54	0x00e97fec	Digital Preview
+0x00f1bef4	0x00e97ffc	Save Preview Image
+0x00f1bf94	0x00e9800f	Enable AF1
+0x00f1c034	0x00e9801a	Enable AF2
+0x00f1c0d4	0x00e98025	Cancel AF
+0x00f1c174	0x00e9802f	For checking depth of\nfield with viewfinder
+0x00f1c214	0x00e9805b	For checking exposure,\ncomposition and focus with\nmonitor before shooting
+0x00f1c2b4	0x00e980a5	AF is performed when\nthe AF button is pressed
+0x00f1c354	0x00e980d3	AF with shutter release\nbutton is disabled so AF is\nperformed with the AF button
+0x00f1c3f4	0x00e98124	AF with the shutter release\nbutton is disabled while the\nAF button is pressed
+0x00f1c494	0x00e98172	E-Dial Programming
+0x00f1c534	0x00e98185	Shutter Speed
+0x00f1c5d4	0x00e98193	Aperture
+0x00f1c674	0x00e9819c	Program Shift
+0x00f1c714	0x00e981aa	Not Available
+0x00f1c7b4	0x00e981b8	Return to P Mode
+0x00f1c854	0x00e981c9	Auto ISO Sensitivity
+0x00f1c8f4	0x00e981de	Program Line
+0x00f1c994	0x00e981eb	Tv Shift
+0x00f1ca34	0x00e981f4	Av Shift
+0x00f1cad4	0x00e981fd	Sets the operation of e-dial\nfor each exposure mode
+0x00f1cb74	0x00e98231	Rotation Direction
+0x00f1cc14	0x00e98244	Rotate Right
+0x00f1ccb4	0x00e98251	Rotate Left
+0x00f1cd54	0x00e9825d	Memory
+0x00f1cdf4	0x00e98264	Memory
+0x00f1ce94	0x00e9826b	Flash Mode
+0x00f1cf34	0x00e98276	Drive Mode
+0x00f1cfd4	0x00e98281	White Balance
+0x00f1d074	0x00e9828f	Sensitivity
+0x00f1d114	0x00e9829b	EV Compensation
+0x00f1d1b4	0x00e982ab	Flash Exposure Comp.
+0x00f1d254	0x00e982c0	Playback Info Display
+0x00f1d2f4	0x00e982d6	Operation Control Lock
+0x00f1d394	0x00e982ed	Save USER Mode
+0x00f1d434	0x00e982fc	Save USER Mode
+0x00f1d4d4	0x00e9830b	Rename USER Mode
+0x00f1d574	0x00e9831c	Reset USER Mode
+0x00f1d614	0x00e9832c	Saves current settings in\nUSER1 custom mode
+0x00f1d6b4	0x00e98358	Saves current settings in\nUSER2 custom mode
+0x00f1d754	0x00e98384	Saves current settings in\nUSER3 custom mode
+0x00f1d7f4	0x00e983b0	Saves current settings in\nUSER4 custom mode
+0x00f1d894	0x00e983dc	Saves current settings in\nUSER5 custom mode
+0x00f1d934	0x00e98408	Resets USER1 custom mode\nto default settings and name
+0x00f1d9d4	0x00e9843e	Resets USER2 custom mode\nto default settings and name
+0x00f1da74	0x00e98474	Resets USER3 custom mode\nto default settings and name
+0x00f1db14	0x00e984aa	Resets USER4 custom mode\nto default settings and name
+0x00f1dbb4	0x00e984e0	Resets USER5 custom mode\nto default settings and name
+0x00f1dc54	0x00e98516	GPS
+0x00f1dcf4	0x00e9851a	GPS/E-Compass
+0x00f1dd94	0x00e98528	GPS/Electronic Compass
+0x00f1de34	0x00e9853f	ASTROTRACER
+0x00f1ded4	0x00e9854b	Calibration
+0x00f1df74	0x00e98557	GPS Logging
+0x00f1e014	0x00e98563	GPS Time Sync
+0x00f1e0b4	0x00e98571	Logging Interval
+0x00f1e154	0x00e98582	Logging Duration
+0x00f1e1f4	0x00e98593	Remaining Logging Time
+0x00f1e294	0x00e985aa	hr.
+0x00f1e334	0x00e985ae	Starts log recording
+0x00f1e3d4	0x00e985c3	Stops log recording
+0x00f1e474	0x00e985d7	Saves remaining unsaved\nlog data to memory card
+0x00f1e514	0x00e98607	Rotate camera in each of three\ndirections ensuring that each\nrotation exceeds 180 degrees
+0x00f1e5b4	0x00e98661	Calibration complete
+0x00f1e654	0x00e98676	Calibration cancelled
+0x00f1e6f4	0x00e9868c	Precise Calibration
+0x00f1e794	0x00e986a0	Timed Exposure
+0x00f1e834	0x00e986af	Uses GPS/SR to track and\ncapture celestial bodies\nin B mode
+0x00f1e8d4	0x00e986eb	Uses GPS/SR to track/capture\ncelestial bodies in B mode with\nsettings for star photography
+0x00f1e974	0x00e98746	Uses SR to track and capture\ncelestial bodies in B mode based\non test exposure of each shot
+0x00f1ea14	0x00e987a2	SR is not used to track and\ncapture celestial bodies\nin B mode
+0x00f1eab4	0x00e987e1	The exposure time set\nexceeds the maximum of\nthe tracking time
+0x00f1eb54	0x00e98820	Movie Capture Settings
+0x00f1ebf4	0x00e98837	Recorded Pixels
+0x00f1ec94	0x00e98847	Framerate
+0x00f1ed34	0x00e98851	Sound Volume Setting
+0x00f1edd4	0x00e98866	Sound Volume Setting
+0x00f1ee74	0x00e9887b	Recording Sound Level
+0x00f1ef14	0x00e98891	Playback Sound Volume
+0x00f1efb4	0x00e988a7	Playback Sound Volume
+0x00f1f054	0x00e988bd	Headphone Volume
+0x00f1f0f4	0x00e988ce	Wind Noise Reduction
+0x00f1f194	0x00e988e3	Movie SR
+0x00f1f234	0x00e988ec	Slideshow
+0x00f1f2d4	0x00e988f6	Slideshow
+0x00f1f374	0x00e98900	Display Duration
+0x00f1f414	0x00e98911	Screen Effect
+0x00f1f4b4	0x00e9891f	Repeat Playback
+0x00f1f554	0x00e9892f	Auto Movie Playback
+0x00f1f5f4	0x00e98943	Quick Zoom
+0x00f1f694	0x00e9894e	Quick Zoom
+0x00f1f734	0x00e98959	Highlight Alert
+0x00f1f7d4	0x00e98969	Auto Image Rotation
+0x00f1f874	0x00e9897d	Protect All Images
+0x00f1f914	0x00e98990	Protect All Images
+0x00f1f9b4	0x00e989a3	Unprotect
+0x00f1fa54	0x00e989ad	Protects all images saved\nin SD1 memory card
+0x00f1faf4	0x00e989da	Protects all images saved\nin SD2 memory card
+0x00f1fb94	0x00e98a07	Delete All Images
+0x00f1fc34	0x00e98a19	Delete All Images
+0x00f1fcd4	0x00e98a2b	All images will be deleted\nfrom SD1 memory card
+0x00f1fd74	0x00e98a5b	All images will be deleted\nfrom SD2 memory card
+0x00f1fe14	0x00e98a8b	Sound Effects
+0x00f1feb4	0x00e98a99	Sound Effects
+0x00f1ff54	0x00e98aa7	Volume
+0x00f1fff4	0x00e98aae	In-focus
+0x00f20094	0x00e98ab7	AE-L
+0x00f20134	0x00e98abc	Self-timer
+0x00f201d4	0x00e98ac7	Remote Control
+0x00f20274	0x00e98ad6	Mirror Up
+0x00f20314	0x00e98ae0	No sound effect is used
+0x00f203b4	0x00e98af8	Other Display Settings
+0x00f20454	0x00e98b0f	Other Display Settings
+0x00f204f4	0x00e98b26	Indicator Lamps
+0x00f20594	0x00e98b36	Indicator Lamps
+0x00f20634	0x00e98b46	LCD Display
+0x00f206d4	0x00e98b52	LCD Display
+0x00f20774	0x00e98b5e	Guide Display
+0x00f20814	0x00e98b6c	Auto Screen Rotation
+0x00f208b4	0x00e98b81	Display Color
+0x00f20954	0x00e98b8f	LCD Display Settings
+0x00f209f4	0x00e98ba4	LCD Display Settings
+0x00f20a94	0x00e98bb9	Brightness Level
+0x00f20b34	0x00e98bca	Color Saturation Level
+0x00f20bd4	0x00e98be1	Adjust: Blue-Amber
+0x00f20c74	0x00e98bf4	Adjust: Green-Magenta
+0x00f20d14	0x00e98c0a	Outdoor View Setting
+0x00f20db4	0x00e98c1f	Outdoor View Setting
+0x00f20e54	0x00e98c34	Night Vision LCD Display
+0x00f20ef4	0x00e98c4d	Night Vision Red Light LCD Display
+0x00f20f94	0x00e98c70	Flicker Reduction
+0x00f21034	0x00e98c82	50Hz
+0x00f210d4	0x00e98c87	60Hz
+0x00f21174	0x00e98c8c	1080i
+0x00f21214	0x00e98c92	720p
+0x00f212b4	0x00e98c97	480p
+0x00f21354	0x00e98c9c	576p
+0x00f213f4	0x00e98ca1	MSC
+0x00f21494	0x00e98ca5	PTP
+0x00f21534	0x00e98ca9	USB Connection
+0x00f215d4	0x00e98cb8	USB Connection
+0x00f21674	0x00e98cc7	HDMI Out
+0x00f21714	0x00e98cd0	HDMI Out
+0x00f217b4	0x00e98cd9	Folder Name
+0x00f21854	0x00e98ce5	Folder Name
+0x00f218f4	0x00e98cf1	Create New Folder
+0x00f21994	0x00e98d03	Create New Folder
+0x00f21a34	0x00e98d15	Create folder
+0x00f21ad4	0x00e98d23	Creates a new storage folder.\nNOTE: folder is created when\nthe next image is saved
+0x00f21b74	0x00e98d76	File Name
+0x00f21c14	0x00e98d80	File Name
+0x00f21cb4	0x00e98d8a	File No.
+0x00f21d54	0x00e98d93	File No.
+0x00f21df4	0x00e98d9c	Sequential Numbering
+0x00f21e94	0x00e98db1	Reset File Number
+0x00f21f34	0x00e98dc3	Uses sequential file number\nin new folder based on last\nnumber in previous folder
+0x00f21fd4	0x00e98e15	File number in new folder\nbegins with "0001"
+0x00f22074	0x00e98e42	File number begins from\n"0001" for next shooting
+0x00f22114	0x00e98e73	Copyright Information
+0x00f221b4	0x00e98e89	Copyright Information
+0x00f22254	0x00e98e9f	Embed Copyright Data
+0x00f222f4	0x00e98eb4	Photographer
+0x00f22394	0x00e98ec1	Copyright Holder
+0x00f22434	0x00e98ed2	Finish
+0x00f224d4	0x00e98ed9	Delete One Character
+0x00f22574	0x00e98eee	Enter
+0x00f22614	0x00e98ef4	Auto Power Off
+0x00f226b4	0x00e98f03	Auto Power Off
+0x00f22754	0x00e98f12	Select Battery
+0x00f227f4	0x00e98f21	Select Battery
+0x00f22894	0x00e98f30	Auto Select
+0x00f22934	0x00e98f3c	Body First
+0x00f229d4	0x00e98f47	Grip First
+0x00f22a74	0x00e98f52	AA Battery Type
+0x00f22b14	0x00e98f62	Auto-detect
+0x00f22bb4	0x00e98f6e	Lithium
+0x00f22c54	0x00e98f76	Nickel-Metal Hydride
+0x00f22cf4	0x00e98f8b	Alkaline
+0x00f22d94	0x00e98f94	Wi-Fi
+0x00f22e34	0x00e98f9a	Wi-Fi
+0x00f22ed4	0x00e98fa0	Action Mode
+0x00f22f74	0x00e98fac	Communication Info
+0x00f23014	0x00e98fbf	SSID
+0x00f230b4	0x00e98fc4	Password
+0x00f23154	0x00e98fcd	MAC Address
+0x00f231f4	0x00e98fd9	Reset Settings
+0x00f23294	0x00e98fe8	Resets Wi-Fi settings\nto default values
+0x00f23334	0x00e99010	Wi-Fi connection disabled
+0x00f233d4	0x00e9902a	Exits Remote Capture mode
+0x00f23474	0x00e99044	Remote Capture mode activated
+0x00f23514	0x00e99062	Remote Capture not available
+0x00f235b4	0x00e9907f	Illumination Settings
+0x00f23654	0x00e99095	Illumination Settings
+0x00f236f4	0x00e990ab	LCD Panel
+0x00f23794	0x00e990b5	Backside Controls
+0x00f23834	0x00e990c7	Lens Mount
+0x00f238d4	0x00e990d2	Card Slot/Connector
+0x00f23974	0x00e990e6	Pressing the illumination button\nwill provide high illumination\nfor the LCD panel
+0x00f23a14	0x00e99138	Pressing the illumination button\nwill provide low illumination\nfor the LCD panel
+0x00f23ab4	0x00e99189	The LCD panel\nwill not be illuminated
+0x00f23b54	0x00e991af	Pressing the illumination button\nwill provide high illumination\nfor the backside controls
+0x00f23bf4	0x00e99209	Pressing the illumination button\nwill provide low illumination\nfor the backside controls
+0x00f23c94	0x00e99262	The backside controls\nwill not be illuminated
+0x00f23d34	0x00e99290	Pressing the illumination button\nwill illuminate the lens mount
+0x00f23dd4	0x00e992d0	The lens mount\nwill not be illuminated
+0x00f23e74	0x00e992f7	Pressing the illumination\nbutton will illuminate the\ncard slot/connector
+0x00f23f14	0x00e99340	The card slot/connector\nwill not be illuminated
+0x00f23fb4	0x00e99370	Reset
+0x00f24054	0x00e99376	Reset
+0x00f240f4	0x00e9937c	Returns to default settings
+0x00f24194	0x00e99398	Pixel Mapping
+0x00f24234	0x00e993a6	Pixel Mapping
+0x00f242d4	0x00e993b4	Checks the image sensor\nand corrects defective pixels
+0x00f24374	0x00e993ea	Not enough battery\npower remaining to\nactivate Pixel Mapping
+0x00f24414	0x00e99427	Dust Removal
+0x00f244b4	0x00e99434	Dust Removal
+0x00f24554	0x00e99441	Startup Action
+0x00f245f4	0x00e99450	Shutdown Action
+0x00f24694	0x00e99460	Sensor Cleaning
+0x00f24734	0x00e99470	Sensor Cleaning
+0x00f247d4	0x00e99480	Opens shutter to access sensor\nfor cleaning. When finished, turn\nthe camera off to close shutter
+0x00f24874	0x00e994e1	Not enough battery\npower remaining to\nclean sensor
+0x00f24914	0x00e99514	Format
+0x00f249b4	0x00e9951b	Format
+0x00f24a54	0x00e99522	All data on SD1 memory\ncard will be deleted
+0x00f24af4	0x00e9954e	All data on SD2 memory\ncard will be deleted
+0x00f24b94	0x00e9957a	Formatting
+0x00f24c34	0x00e99585	Firmware Info/Options
+0x00f24cd4	0x00e9959b	Firmware Info/Options
+0x00f24d74	0x00e995b1	Lens
+0x00f24e14	0x00e995b6	Updates the camera firmware
+0x00f24eb4	0x00e995d2	Updates the lens firmware
+0x00f24f54	0x00e995ec	Not enough battery\npower remaining to\nupdate the firmware
+0x00f24ff4	0x00e99626	Unable to update firmware.\nThere is a problem with the\nfirmware update file
+0x00f25094	0x00e99672	Limited Function
+0x00f25134	0x00e99683	Limited Function
+0x00f251d4	0x00e99694	Remote Ctrl. Focus Fine Adj.
+0x00f25274	0x00e996b1	To enable the limited functions,\na special unlock key obtained\nfrom a website, etc. is required.
+0x00f25314	0x00e99712	Read Unlock Key
+0x00f253b4	0x00e99722	Focus on the unlock key.
+0x00f25454	0x00e9973b	The following functions have\nbeen enabled.\nTurn the camera off.
+0x00f254f4	0x00e9977b	No valid unlock key.
+0x00f25594	0x00e99790	Remaining Period
+0x00f25634	0x00e997a1	Trial Ver.
+0x00f256d4	0x00e997ac	Start Trial Version
+0x00f25774	0x00e997c0	The selected function can be\ntried for a limited period
+0x00f25814	0x00e997f8	Certification Marks
+0x00f258b4	0x00e9980c	Certification Marks
+0x00f25954	0x00e99820	EV Steps
+0x00f259f4	0x00e99829	EV Steps
+0x00f25a94	0x00e99832	1/3 EV Steps
+0x00f25b34	0x00e9983f	1/2 EV Steps
+0x00f25bd4	0x00e9984c	Exposure compensation steps\nnow set to 1/3 EV
+0x00f25c74	0x00e9987a	Exposure compensation steps\nnow set to 1/2 EV
+0x00f25d14	0x00e998a8	Sensitivity Steps
+0x00f25db4	0x00e998ba	Sensitivity Steps
+0x00f25e54	0x00e998cc	1 EV Step
+0x00f25ef4	0x00e998d6	As EV Steps
+0x00f25f94	0x00e998e2	ISO sensitivity steps\nnow set to 1 EV
+0x00f26034	0x00e99908	ISO sensitivity steps\nare equivalent to\nEV step setting
+0x00f260d4	0x00e99940	Meter Operating Time
+0x00f26174	0x00e99955	Meter Operating Time
+0x00f26214	0x00e9996a	Sets the camera's active\nmetering time to 10 seconds
+0x00f262b4	0x00e9999f	Sets the camera's active\nmetering time to 3 seconds
+0x00f26354	0x00e999d3	Sets the camera's active\nmetering time to 30 seconds
+0x00f263f4	0x00e99a08	Measures exposure until\nthe shutter is released\nor the camera is turned off
+0x00f26494	0x00e99a54	AE-L with AF Locked
+0x00f26534	0x00e99a68	AE-L with AF Locked
+0x00f265d4	0x00e99a7c	AE is not locked when\nthe focus is locked
+0x00f26674	0x00e99aa6	AE is locked when\nthe focus is locked
+0x00f26714	0x00e99acc	Link AE and AF Point
+0x00f267b4	0x00e99ae1	Link Exposure and Focus Point
+0x00f26854	0x00e99aff	Exposure is set separately\nfrom the focus point
+0x00f268f4	0x00e99b2f	Exposure is biased\nfor the focus point
+0x00f26994	0x00e99b56	Auto EV Compensation
+0x00f26a34	0x00e99b6b	Auto EV Compensation
+0x00f26ad4	0x00e99b80	Does not use auto EV\ncompensation when proper\nexposure is not obtained
+0x00f26b74	0x00e99bc7	Uses auto EV compensation\nwhen proper exposure is\nnot obtained
+0x00f26c14	0x00e99c06	Bracketing Order
+0x00f26cb4	0x00e99c17	Bracketing Order
+0x00f26d54	0x00e99c28	0 - +
+0x00f26df4	0x00e99c2e	- 0 +
+0x00f26e94	0x00e99c34	+ 0 -
+0x00f26f34	0x00e99c3a	0 + -
+0x00f26fd4	0x00e99c40	2 images: 0,-1/0,+1\n3 images: 0,-1,+1\n5 images: 0,-1,+1,-2,+2
+0x00f27074	0x00e99c7e	2 images: -1,0/0,+1\n3 images: -1,0,+1\n5 images: -2,-1,0,+1,+2
+0x00f27114	0x00e99cbc	2 images: 0,-1/+1,0\n3 images: +1,0,-1\n5 images: +2,+1,0,-1,-2
+0x00f271b4	0x00e99cfa	2 images: -1,0/+1,0\n3 images: 0,+1,-1\n5 images: 0,+1,-1,+2,-2
+0x00f27254	0x00e99d38	One-Push Bracketing
+0x00f272f4	0x00e99d4c	One-Push Bracketing
+0x00f27394	0x00e99d60	Pressing shutter release once\ntakes a single shot
+0x00f27434	0x00e99d92	Pressing shutter release\nonce takes given number\nof bracketed shots
+0x00f274d4	0x00e99dd6	Bulb (B) Mode Options
+0x00f27574	0x00e99dec	Bulb (B) Mode Options
+0x00f27614	0x00e99e02	Press and hold shutter release\nbutton for exposure. Releasing\nbutton stops exposure
+0x00f276b4	0x00e99e56	Press shutter release button\nto start exposure. Press\nagain to stop exposure
+0x00f27754	0x00e99ea3	Interval Shooting Options
+0x00f277f4	0x00e99ebd	Interval Shooting Options
+0x00f27894	0x00e99ed7	Exposure begins at set intervals
+0x00f27934	0x00e99ef8	Exposure begins after standby\ninterval passes after the\ncompletion of previous exposure
+0x00f279d4	0x00e99f50	AF in Interval Shooting
+0x00f27a74	0x00e99f68	Autofocus Operation in Interval Shooting
+0x00f27b14	0x00e99f91	Locks focus at 1st exposure
+0x00f27bb4	0x00e99fad	Adjusts focus for each shot
+0x00f27c54	0x00e99fc9	Focus point is locked\nat the start of the first exposure
+0x00f27cf4	0x00e9a002	Autofocus is performed for each\nexposure. NOTE: AF is not active\nwhen shooting with Live View
+0x00f27d94	0x00e9a060	WB Adjustable Range
+0x00f27e34	0x00e9a074	White Balance Adjustable Range
+0x00f27ed4	0x00e9a093	Auto Adjustment
+0x00f27f74	0x00e9a0a3	Fixed
+0x00f28014	0x00e9a0a9	Automatically adjusts\nwhite balance even when\nlight source is specified
+0x00f280b4	0x00e9a0f1	Does not automatically\nadjust white balance when\nlight source is specified
+0x00f28154	0x00e9a13c	WB When Using Flash
+0x00f281f4	0x00e9a150	White Balance When Using Flash
+0x00f28294	0x00e9a16f	Unchanged
+0x00f28334	0x00e9a179	Switches white balance\nsetting to "Auto" when\nthe flash is activated
+0x00f283d4	0x00e9a1be	Switches white balance setting\nto "Multi Auto White Balance"\nwhen the flash is activated
+0x00f28474	0x00e9a217	Uses white balance setting\nyou have selected when\nthe flash is activated
+0x00f28514	0x00e9a260	AWB in Tungsten Light
+0x00f285b4	0x00e9a276	Auto White Balance under Tungsten Light
+0x00f28654	0x00e9a29e	Subtle Correction
+0x00f286f4	0x00e9a2b0	Strong Correction
+0x00f28794	0x00e9a2c2	WB of images captured under\ntungsten light is corrected\nslightly, keeping a warm tone
+0x00f28834	0x00e9a318	WB of images captured\nunder tungsten light\nis strongly corrected
+0x00f288d4	0x00e9a359	Color Temperature Steps
+0x00f28974	0x00e9a371	Color Temperature Steps
+0x00f28a14	0x00e9a389	Kelvin
+0x00f28ab4	0x00e9a390	Mired
+0x00f28b54	0x00e9a396	Color temperature can\nbe set in steps of 100K
+0x00f28bf4	0x00e9a3c4	Color temperature can\nbe set in steps of 20 mired.\nDisplayed in Kelvin unit
+0x00f28c94	0x00e9a410	AF.S Setting
+0x00f28d34	0x00e9a41d	Contrast AF Options
+0x00f28dd4	0x00e9a431	Focus-priority
+0x00f28e74	0x00e9a440	Release-priority
+0x00f28f14	0x00e9a451	Shutter can not be released\nuntil subject is in focus
+0x00f28fb4	0x00e9a487	Shutter can be released even if\nsubject is not in focus
+0x00f29054	0x00e9a4bf	1st Frame Action in AF.C
+0x00f290f4	0x00e9a4d8	FPS-priority
+0x00f29194	0x00e9a4e5	Starts shooting immediately\nregardless of a focus status
+0x00f29234	0x00e9a51e	Will autofocus at start of\nAF.C shooting sequence
+0x00f292d4	0x00e9a550	Starts shooting\nafter adjusting focus
+0x00f29374	0x00e9a576	Action in AF.C Cont.
+0x00f29414	0x00e9a58b	Focus-tracking takes\npriority over maintaining\ncapture framerate
+0x00f294b4	0x00e9a5cc	Automatically determines which\ntakes priority: focus-tracking\nor maintaining capture framerate
+0x00f29554	0x00e9a62b	Maintaining capture\nframerate takes priority\nover focus tracking
+0x00f295f4	0x00e9a66c	Hold AF Status
+0x00f29694	0x00e9a67b	AF operates immediately\nwhen the subject distance\ngreatly changes
+0x00f29734	0x00e9a6bd	AF operates after maintaining\nthe focus for a while when the\nsubject distance greatly changes
+0x00f297d4	0x00e9a71b	Focus Limiter
+0x00f29874	0x00e9a729	Focus Limiter
+0x00f29914	0x00e9a737	Near Side
+0x00f299b4	0x00e9a741	Far Side
+0x00f29a54	0x00e9a74a	Limits the focus range\nto the near side.
+0x00f29af4	0x00e9a773	Limits the focus range\nto the far side.
+0x00f29b94	0x00e9a79b	Does not limit the focus range.
+0x00f29c34	0x00e9a7bb	AF with Remote Control
+0x00f29cd4	0x00e9a7d2	Autofocus When Using Remote Control
+0x00f29d74	0x00e9a7f6	Off (Focus Fine Adjustment)
+0x00f29e14	0x00e9a812	AF does not operate when\nreleasing the shutter with a\nremote control unit
+0x00f29eb4	0x00e9a85c	AF operates prior to shutter\nrelease when using a remote\ncontrol unit
+0x00f29f54	0x00e9a8a2	Finely adjust the focus using\nthe zoom and Fn button placed\non the remote control unit
+0x00f29ff4	0x00e9a8f9	Color Space
+0x00f2a094	0x00e9a905	Save Rotation Info
+0x00f2a134	0x00e9a918	Save Rotation Info
+0x00f2a1d4	0x00e9a92b	Saves rotation info\nwhen shooting
+0x00f2a274	0x00e9a94d	Does not save rotation\ninfo when shooting
+0x00f2a314	0x00e9a977	Save Menu Location
+0x00f2a3b4	0x00e9a98a	Save Menu Location
+0x00f2a454	0x00e9a99d	Reset Menu Location
+0x00f2a4f4	0x00e9a9b1	Save Menu Location
+0x00f2a594	0x00e9a9c4	Pressing the menu button\naccesses the first menu tab
+0x00f2a634	0x00e9a9f9	Pressing the menu button\nshows the menu tab with the\nlast used menu item selected
+0x00f2a6d4	0x00e9aa4b	Catch-in Focus
+0x00f2a774	0x00e9aa5a	Catch-in Focus
+0x00f2a814	0x00e9aa69	Catch-in Focus disabled.\nCamera will not auto fire\nas subject enters focus zone
+0x00f2a8b4	0x00e9aab9	Catch-in Focus enabled.\nCamera will automatically fire\nas subject enters focus zone
+0x00f2a954	0x00e9ab0d	AF Fine Adjustment
+0x00f2a9f4	0x00e9ab20	AF Fine Adjustment
+0x00f2aa94	0x00e9ab33	Apply All
+0x00f2ab34	0x00e9ab3d	Apply One
+0x00f2abd4	0x00e9ab47	Unset
+0x00f2ac74	0x00e9ab4d	Reset Individual Settings
+0x00f2ad14	0x00e9ab67	AF fine adjustment disabled.\nLenses will focus according to\nfactory default tolerances
+0x00f2adb4	0x00e9abbe	Applies the same AF fine-tune\nadjustment to all lenses
+0x00f2ae54	0x00e9abf5	Applies the AF fine-tune\nadjustment to individual lenses
+0x00f2aef4	0x00e9ac2e	Resets AF fine-tune\nadjustments made for\nindividual lenses
+0x00f2af94	0x00e9ac69	Using Aperture Ring
+0x00f2b034	0x00e9ac7d	Using Aperture Ring
+0x00f2b0d4	0x00e9ac91	Disable
+0x00f2b174	0x00e9ac99	Enable
+0x00f2b214	0x00e9aca0	Shutter will not release when\naperture ring is not set to the\n"A" position
+0x00f2b2b4	0x00e9aceb	Shutter will release when\naperture ring is not set to the\n"A" position
+0x00f2b354	0x00e9ad32	Auto SR Off
+0x00f2b3f4	0x00e9ad3e	Automatically turns Shake Reduction off
+0x00f2b494	0x00e9ad66	Enable Auto SR Off
+0x00f2b534	0x00e9ad79	Disable Auto SR Off
+0x00f2b5d4	0x00e9ad8d	SR automatically turns off\nwhen shooting with a remote\ncontrol unit or self-timer
+0x00f2b674	0x00e9addf	SR is on when shooting\nwith a remote control unit\nor self-timer
+0x00f2b714	0x00e9ae1f	Change AF Point Button
+0x00f2b7b4	0x00e9ae36	Change AF Point Button Options
+0x00f2b854	0x00e9ae55	Press AF point change button\nto change 4-way controller\nfunction when in Select AF mode
+0x00f2b8f4	0x00e9aead	Press AF point change button to\nset the desired shooting settings\nmarked on 4-way controller
+0x00f2b994	0x00e9af0a	Enable/Disable Control
+0x00f2ba34	0x00e9af21	Enable or Disable Operation Controls
+0x00f2bad4	0x00e9af46	Disables the following interfaces
+0x00f2bb74	0x00e9af68	Flash Sync Speed
+0x00f2bc14	0x00e9af79	Flash Sync Speed
+0x00f2bcb4	0x00e9af8a	1/200
+0x00f2bd54	0x00e9af90	1/160 (1/180)
+0x00f2bdf4	0x00e9af9e	1/125
+0x00f2be94	0x00e9afa4	1/100 (1/90)
+0x00f2bf34	0x00e9afb1	1/200 seconds (1/3 EV steps)\n1/200 seconds (1/2 EV steps)
+0x00f2bfd4	0x00e9afeb	1/160 seconds (1/3 EV steps)\n1/180 seconds (1/2 EV steps)
+0x00f2c074	0x00e9b025	1/125 seconds (1/3 EV steps)\n1/125 seconds (1/2 EV steps)
+0x00f2c114	0x00e9b05f	1/100 seconds (1/3 EV steps)\n1/90 seconds (1/2 EV steps)
+0x00f2c1b4	0x00e9b098	Viewfinder Light
+0x00f2c254	0x00e9b0a9	Viewfinder Light
+0x00f2c2f4	0x00e9b0ba	Provides illumination when\nsubject comes in focus or AF\npoint is changed in dark places
+0x00f2c394	0x00e9b112	Always provides illumination\nwhen subject comes in focus\nor AF point is changed
+0x00f2c434	0x00e9b162	The viewfinder\nwill not be illuminated
+0x00f2c4d4	0x00e9b189	Reset Custom Functions
+0x00f2c574	0x00e9b1a0	Reset All Custom Function Settings
+0x00f2c614	0x00e9b1c3	Returns the custom function\nsettings to default values
+0x00f2c6b4	0x00e9b1fa	Standby
+0x00f2c754	0x00e9b202	Remaining Shots
+0x00f2c7f4	0x00e9b212	Interval Shooting complete
+0x00f2c894	0x00e9b22d	This function is not available\nin the current mode
+0x00f2c934	0x00e9b260	The camera will turn off\nto prevent damage from\noverheating
+0x00f2c9d4	0x00e9b29c	Detailed Information Display
+0x00f2ca74	0x00e9b2b9	RGB Histogram Display
+0x00f2cb14	0x00e9b2cf	6 Thumbnail Display
+0x00f2cbb4	0x00e9b2e3	12 Thumbnail Display
+0x00f2cc54	0x00e9b2f8	20 Thumbnail Display
+0x00f2ccf4	0x00e9b30d	35 Thumbnail Display
+0x00f2cd94	0x00e9b322	80 Thumbnail Display
+0x00f2ce34	0x00e9b337	Calendar Filmstrip Display
+0x00f2ced4	0x00e9b352	Delete JPEG
+0x00f2cf74	0x00e9b35e	Delete RAW
+0x00f2d014	0x00e9b369	Delete RAW+JPEG
+0x00f2d0b4	0x00e9b379	Delete all
+0x00f2d154	0x00e9b384	Leave all
+0x00f2d1f4	0x00e9b38e	image(s)
+0x00f2d294	0x00e9b397	All selected images\nwill be deleted
+0x00f2d334	0x00e9b3bb	All images in selected\nfolder will be deleted
+0x00f2d3d4	0x00e9b3e9	This image is protected
+0x00f2d474	0x00e9b401	Protected images are found
+0x00f2d514	0x00e9b41c	Deleting
+0x00f2d5b4	0x00e9b425	Retrieves this JPG's RAW data\nfrom buffer memory and saves it\nas a separate RAW image file
+0x00f2d654	0x00e9b480	Image Rotation
+0x00f2d6f4	0x00e9b48f	Rotates captured images.\nUseful for image playback on\nTV and other display devices
+0x00f2d794	0x00e9b4e2	Applies creative digital filters\nto captured images
+0x00f2d834	0x00e9b516	Resize
+0x00f2d8d4	0x00e9b51d	Changes the resolution\nof captured images
+0x00f2d974	0x00e9b547	Cropping
+0x00f2da14	0x00e9b550	Cuts unwanted part\nof the image down\nto the desired size
+0x00f2dab4	0x00e9b589	Protect
+0x00f2db54	0x00e9b591	Protects images from "delete"\n& "delete-all" functions. NOTE:\n"format" function will erase all
+0x00f2dbf4	0x00e9b5f0	Plays a slideshow with\nall captured images
+0x00f2dc94	0x00e9b61b	Save Cross Processing
+0x00f2dd34	0x00e9b631	Saves Cross Processing\nsettings as Favorite
+0x00f2ddd4	0x00e9b65d	Save as Manual WB
+0x00f2de74	0x00e9b66f	Adjusts Manual White Balance\nbased on the color balance of\nthe captured image
+0x00f2df14	0x00e9b6bd	RAW Development
+0x00f2dfb4	0x00e9b6cd	Converts RAW image files\ninto JPEG or TIFF image files
+0x00f2e054	0x00e9b704	Movie Edit
+0x00f2e0f4	0x00e9b70f	Divides movie or\nextracts segment
+0x00f2e194	0x00e9b731	Color Moir<glyph:62> Correction
+0x00f2e234	0x00e9b748	Reduces color moir<glyph:62> in images
+0x00f2e2d4	0x00e9b766	Image Copy
+0x00f2e374	0x00e9b771	Copies images between\ncards in SD1 and SD2 slots
+0x00f2e414	0x00e9b7a2	Astrophoto Image Processing
+0x00f2e4b4	0x00e9b7be	Applies appropriate processing\nto the image of celestial bodies\nand saves it as a new file
+0x00f2e554	0x00e9b819	Shading Correction
+0x00f2e5f4	0x00e9b82c	Correction Position
+0x00f2e694	0x00e9b840	Uneven Correction
+0x00f2e734	0x00e9b852	Correction Amount (R)
+0x00f2e7d4	0x00e9b868	Correction Amount (G)
+0x00f2e874	0x00e9b87e	Correction Amount (B)
+0x00f2e914	0x00e9b894	Highlight Level
+0x00f2e9b4	0x00e9b8a4	Uneven Contrast
+0x00f2ea54	0x00e9b8b4	Background Darkness
+0x00f2eaf4	0x00e9b8c8	Star Brightness
+0x00f2eb94	0x00e9b8d8	Celestial Body Clarity
+0x00f2ec34	0x00e9b8ef	Fringe Color 1
+0x00f2ecd4	0x00e9b8fe	Fringe Color 1 Level
+0x00f2ed74	0x00e9b913	Fringe Color 2
+0x00f2ee14	0x00e9b922	Fringe Color 2 Level
+0x00f2eeb4	0x00e9b937	Applying the digital filter
+0x00f2ef54	0x00e9b953	Recreating filter effects
+0x00f2eff4	0x00e9b96d	Searching for original image
+0x00f2f094	0x00e9b98a	Apply additional filter(s)
+0x00f2f134	0x00e9b9a5	Continue selecting filters?
+0x00f2f1d4	0x00e9b9c1	Cancels in-process digital\nfilter operations
+0x00f2f274	0x00e9b9ee	Reapplies following digital filter\neffects from previous image
+0x00f2f314	0x00e9ba2d	Performs digital filter\nprocessing to this image
+0x00f2f3b4	0x00e9ba5e	Original image, prior to digital\nfilter application, is not found
+0x00f2f454	0x00e9baa0	Protects selected images
+0x00f2f4f4	0x00e9bab9	Protects images\nin selected folder
+0x00f2f594	0x00e9badc	Save as Favorite 1
+0x00f2f634	0x00e9baef	Save as Favorite 2
+0x00f2f6d4	0x00e9bb02	Save as Favorite 3
+0x00f2f774	0x00e9bb15	Saves this image's Cross\nProcessing settings
+0x00f2f814	0x00e9bb42	Cross Processing settings\nsaved as: Favorite 1
+0x00f2f8b4	0x00e9bb71	Cross Processing settings\nsaved as: Favorite 2
+0x00f2f954	0x00e9bba0	Cross Processing settings\nsaved as: Favorite 3
+0x00f2f9f4	0x00e9bbcf	No cross processed image
+0x00f2fa94	0x00e9bbe8	Save as Manual 1
+0x00f2fb34	0x00e9bbf9	Save as Manual 2
+0x00f2fbd4	0x00e9bc0a	Save as Manual 3
+0x00f2fc74	0x00e9bc1b	Saves this image's White Balance\nsettings as a custom selection
+0x00f2fd14	0x00e9bc5b	White Balance settings\nsaved as: Manual 1
+0x00f2fdb4	0x00e9bc85	White Balance settings\nsaved as: Manual 2
+0x00f2fe54	0x00e9bcaf	White Balance settings\nsaved as: Manual 3
+0x00f2fef4	0x00e9bcd9	Sensitivity
+0x00f2ff94	0x00e9bce5	HDR/Pixel Shift Resolution
+0x00f30034	0x00e9bd00	Develop images as shot
+0x00f300d4	0x00e9bd17	Develop images with\nmodified settings
+0x00f30174	0x00e9bd3d	Image developed and stored.\nContinue developing?
+0x00f30214	0x00e9bd6e	Select segments for deletion
+0x00f302b4	0x00e9bd8b	No more segment is selectable
+0x00f30354	0x00e9bda9	Saves divided movie\nas separate files
+0x00f303f4	0x00e9bdcf	Select the location of the\nitem you want to change
+0x00f30494	0x00e9be02	Resets current items and\ntheir locations on the control\npanel to default values
+0x00f30534	0x00e9be52	Cannot be selected
+0x00f305d4	0x00e9be65	No more images\ncan be selected
+0x00f30674	0x00e9be84	Saves the image as a new file
+0x00f30714	0x00e9bea2	Saves selected images\nas new files
+0x00f307b4	0x00e9bec5	Saves images in selected\nfolder as new files
+0x00f30854	0x00e9bef2	Data being saved
+0x00f308f4	0x00e9bf03	Unable to store image
+0x00f30994	0x00e9bf19	The operation could not be\ncompleted correctly
+0x00f30a34	0x00e9bf48	This image cannot be processed
+0x00f30ad4	0x00e9bf67	Processing cannot be\nperformed because the camera\nfirmware version is old
+0x00f30b74	0x00e9bfb1	Some processing was skipped\nbecause the camera firmware\nversion is old
+0x00f30c14	0x00e9bff8	No image can be processed

@@ -1,0 +1,20 @@
+4066e78c  stmdb sp!,{r4,r5,r6,r7,r8,lr}
+4066e790  cmp r0,#0x2
+4066e794  cpy r5,r1
+4066e798  mvn r6,#0x0
+4066e79c  adrlt r0,0x4066e92c
+4066e7a0  blt 0x4066e920
+4066e7a4  bl 0x40669e34
+4066e7a8  movs r4,r0
+4066e7ac  beq 0x4066e924
+4066e7b0  ldr r0,[r5,#0x4]
+4066e7b4  blx 0x4066f214
+4066e7b8  cmp r0,#0x6
+4066e7bc  mov r6,#0x0
+4066e7c0  ldrcc pc,[pc,r0,lsl #0x2]
+4066e7c4  b 0x4066e918
+4066e918  mvn r6,#0x0
+4066e91c  adr r0,0x4066e994
+4066e920  bl 0x4067cd44
+4066e924  cpy r0,r6
+4066e928  ldmia sp!,{r4,r5,r6,r7,r8,pc}

@@ -1,0 +1,26 @@
+403be41c  stmdb sp!,{r4,r5,lr}
+403be420  sub sp,sp,#0xc4
+403be424  adr r0,0x403be5b8
+403be428  bl 0x4067cd44
+403be42c  ldr r1,[0x403be5d4]
+403be430  mov r2,#0xc4
+403be434  cpy r0,sp
+403be438  bl 0x406833b0
+403be43c  cpy r5,sp
+403be440  mov r4,#0x0
+403be444  bl 0x4062af84
+403be448  and r1,r4,#0xff
+403be44c  bl 0x4062b36c
+403be450  ldr r1,[r5,r4,lsl #0x2]
+403be454  cpy r3,r0
+403be458  adr r0,0x403be5d8
+403be45c  cpy r2,r4
+403be460  bl 0x4067cd44
+403be464  add r4,r4,#0x1
+403be468  cmp r4,#0x32
+403be46c  blt 0x403be444
+403be470  adr r0,0x403be5f0
+403be474  bl 0x4067cd44
+403be478  add sp,sp,#0xc4
+403be47c  mov r0,#0x0
+403be480  ldmia sp!,{r4,r5,pc}

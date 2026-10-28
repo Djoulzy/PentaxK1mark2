@@ -1,0 +1,15 @@
+404c660c  cmp r0,#0x2
+404c6610  stmdb sp!,{r4,lr}
+404c6614  beq 0x404c6620
+404c6618  mov r0,#0x0
+404c661c  ldmia sp!,{r4,pc}
+404c6620  mov r2,#0x0
+404c6624  ldr r0,[r1,#0x4]
+404c6628  cpy r1,r2
+404c662c  blx 0x4020c174
+404c6630  tst r0,#0xff
+404c6634  movne r4,#0x1
+404c6638  moveq r4,#0x0
+404c663c  bl 0x404c4910
+404c6640  strb r4,[r0,#0x10c]
+404c6644  b 0x404c6618

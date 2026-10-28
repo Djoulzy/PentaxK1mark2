@@ -1,0 +1,94 @@
+offset_main	virtual_address	text
+0x0023c16f	0x4023c16f	@B:\TrialInf.bin
+0x0023c183	0x4023c183	@CTrialFile::%s Read Error
+0x0023c1a0	0x4023c1a0	CTrialFile::%s Open Error
+0x0023c1bf	0x4023c1bf	@CTrialFile::%s Write Error
+0x0023c2c7	0x4023c2c7	@CTrialFile::%s Delete Error
+0x0023c50b	0x4023c50b	@TRIAL_INFO
+0x0023c51b	0x4023c51b	@CTrialFlash::%s Flash Error
+0x002534ec	0x402534ec	m_pcTrialDataService
+0x002abc13	0x402abc13	@QRCodePipeSvc
+0x002abc2c	0x402abc2c	QRCodePipeService::OnMessage() PipeMessageBase is null
+0x002abc64	0x402abc64	QRCodePipeService::OnMessage() QRCodeInfo is null
+0x002abc98	0x402abc98	QRCodePipeService::OnMessage() Unkown function code.
+0x002fe5d4	0x402fe5d4	m_pcQRCodePipeService
+0x00355e42	0x40355e42	BACTrialInfo::ReadFile Error
+0x00355e60	0x40355e60	CTrialInfo::WriteFile Error
+0x00355e80	0x40355e80	CTrialInfo::DeleteFile Error
+0x003bd864	0x403bd864	[IPSC] shell_VIEW_FineFocus() %d
+0x003bd88d	0x403bd88d	6 A[IPSC] lFineFocusDirection:%d lFineFocusTimes:%d
+0x003bd8c4	0x403bd8c4	[IPSC] shell_VIEW_FineFocus Finish
+0x003bd8e8	0x403bd8e8	[IPSC] shell_VIEW_FineFocus() EROOR!
+0x003cd444	0x403cd444	TrialInfo
+0x003cd463	0x403cd463	@CTrialDataInfo::eERROR_FLASH
+0x003cd484	0x403cd484	Trial backup write error
+0x003cd4a0	0x403cd4a0	Trial Read Error = %x
+0x003cd4b8	0x403cd4b8	Trial backup read error
+0x003cd4d4	0x403cd4d4	CTrialInfo::eERROR_FLASH
+0x003cd4f0	0x403cd4f0	Trial read error
+0x003cd504	0x403cd504	Trial Info Reset
+0x004c51d4	0x404c51d4	StarAfHistory %s
+0x004c607e	0x404c607e	$@StarAfStage:%s %d
+0x004c646d	0x404c646d	! AStarAfEvent:%s %d
+0x004d8028	0x404d8028	StarAfReqType:%d
+0x004dd047	0x404dd047	@StarAfEvent Unknown flagPattern:%x
+0x0050951c	0x4050951c	B:\SpFFlg01.bin
+0x0050952c	0x4050952c	B:\SpFFlg02.bin
+0x0050953c	0x4050953c	B:\SpFFlg03.bin
+0x0050954c	0x4050954c	B:\SpFFlg04.bin
+0x0050955c	0x4050955c	B:\SpFFlg05.bin
+0x0050993c	0x4050993c	B:\SpFFlg06.bin
+0x0050994c	0x4050994c	B:\SpFFlg07.bin
+0x0050995c	0x4050995c	B:\SpFFlg08.bin
+0x0050996c	0x4050996c	B:\SpFFlg09.bin
+0x0050997c	0x4050997c	B:\SpFFlg10.bin
+0x0050998c	0x4050998c	B:\SpFFlg11.bin
+0x0050999c	0x4050999c	B:\SpFFlg12.bin
+0x005099ac	0x405099ac	B:\SpFFlg13.bin
+0x005099bc	0x405099bc	B:\SpFFlg14.bin
+0x00509d98	0x40509d98	B:\SpFFlg15.bin
+0x00509da8	0x40509da8	B:\SpFFlg16.bin
+0x005a74d8	0x405a74d8	m_pcQRCodePipeService
+0x005aa264	0x405aa264	StoreQrCodeYCbCr %x H: %d V %d
+0x0062be84	0x4062be84	StarAfNotifyComp
+0x006303cd	0x406303cd	Zm@[LVS3A] StarAf FWHM operation is too long. wFwhmCalcCounter:%d
+0x00631437	0x40631437	?\A A[LVS3A] StarAf FWHM operation is too long.
+0x00674537	0x40674537	@pcTrialInfo
+0x0067485d	0x4067485d	6 Amed_rm B:\SPFFLG%02d.BIN
+0x007fe35b	0x407fe35b	@FunctionReleaseCodeMode.cpp
+0x008da233	0x408da233	@FunctionReleaseCodeModel.cpp
+0x008da254	0x408da254	CameraSerialNoDataNumber == sizeof(FunctionReleaseHash::Serial)
+0x009c76b2	0x409c76b2	"AB:\SpFFlg01.bin
+0x009c777a	0x409c777a	"AB:\SpFFlg02.bin
+0x009c7842	0x409c7842	"AB:\SpFFlg03.bin
+0x009c790a	0x409c790a	"AB:\SpFFlg04.bin
+0x009c79d2	0x409c79d2	"AB:\SpFFlg05.bin
+0x009c7a9a	0x409c7a9a	"AB:\SpFFlg06.bin
+0x009c7b62	0x409c7b62	"AB:\SpFFlg07.bin
+0x009c7c2a	0x409c7c2a	"AB:\SpFFlg08.bin
+0x009c7cf2	0x409c7cf2	"AB:\SpFFlg09.bin
+0x009c7dba	0x409c7dba	"AB:\SpFFlg10.bin
+0x009c7e82	0x409c7e82	"AB:\SpFFlg11.bin
+0x009c7f4a	0x409c7f4a	"AB:\SpFFlg12.bin
+0x009c800f	0x409c800f	@8 "AB:\SpFFlg13.bin
+0x009c80d9	0x409c80d9	""AB:\SpFFlg14.bin
+0x009c81a1	0x409c81a1	%"AB:\SpFFlg15.bin
+0x009c8269	0x409c8269	'"AB:\SpFFlg16.bin
+0x00a0480f	0x40a0480f	ForcedActivationSpring
+0x00a04826	0x40a04826	ClearForcedActivationSpring
+0x00a04842	0x40a04842	ForcedActivationKaten
+0x00a04858	0x40a04858	ClearForcedActivationKaten
+0x00a04873	0x40a04873	ForcedActivationAutumn
+0x00a0488a	0x40a0488a	ClearForcedActivationAutumn
+0x00a048a6	0x40a048a6	ForcedActivationWinter
+0x00a048bd	0x40a048bd	ClearForcedActivationWinter
+0x00a20916	0x40a20916	TrialStart
+0x00ad3de1	0x40ad3de1	SetTrial
+0x00ae7a3c	0x40ae7a3c	DecrementNumOfTrialInfoSaveRequest
+0x00ae7a5f	0x40ae7a5f	GetSpecialFeatureFlagData
+0x00ae8c9a	0x40ae8c9a	UpdateQrCodeYccCopySequence
+0x00ae8cb6	0x40ae8cb6	UpdateQrCodeReaderSequence
+0x00ae8f81	0x40ae8f81	NotifyStarAfComplete
+0x00d0ff31	0x40d0ff31	IsValidGradNd
+0x00dfa4a0	0x40dfa4a0	(sizeof(trialTimeSec) / sizeof(trialTimeSec[0])) == SpecModel::Function_Max
+0x00dfa87c	0x40dfa87c	m_cContrastAfDriveModeResult.GetResultAfAv8() == m_cContrastAfDriveModeResultStarAf.GetResultAfAv8()

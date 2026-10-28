@@ -1,0 +1,14 @@
+400c1c84  stmdb sp!,{r4,lr}
+400c1c88  bl 0x40091284
+400c1c8c  ldr r0,[r0,#0xc]
+400c1c90  cmp r0,#0x0
+400c1c94  beq 0x400c1ca4
+400c1c98  mov r1,#0x1
+400c1c9c  bl 0x4009863c
+400c1ca0  b 0x400c1cb4
+400c1ca4  mov r1,#0x0
+400c1ca8  adr r2,0x400c1eec
+400c1cac  cpy r0,r1
+400c1cb0  bl 0x40009c8c
+400c1cb4  mov r0,#0x0
+400c1cb8  ldmia sp!,{r4,pc}

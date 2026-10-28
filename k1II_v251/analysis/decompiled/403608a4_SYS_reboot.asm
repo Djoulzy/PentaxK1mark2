@@ -1,0 +1,7 @@
+403608a4  stmdb sp!,{r4,lr}
+403608a8  bl 0x40677b5c
+403608ac  movw r1,#0x128
+403608b0  bl 0x40677c28
+403608b4  bl 0x4036025c
+403608b8  mov r0,#0x0
+403608bc  ldmia sp!,{r4,pc}

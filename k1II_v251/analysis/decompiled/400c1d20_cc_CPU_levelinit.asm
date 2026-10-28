@@ -1,0 +1,13 @@
+400c1d20  stmdb sp!,{r4,lr}
+400c1d24  bl 0x40099564
+400c1d28  ldr r1,[r0,#0x0]
+400c1d2c  ldr r2,[r1,#0x8]
+400c1d30  mov r1,#0x0
+400c1d34  blx r2
+400c1d38  bl 0x40099564
+400c1d3c  ldr r1,[r0,#0x0]
+400c1d40  ldr r2,[r1,#0xc]
+400c1d44  mov r1,#0x0
+400c1d48  blx r2
+400c1d4c  mov r0,#0x0
+400c1d50  ldmia sp!,{r4,pc}

@@ -1,0 +1,15 @@
+4098e3b8  stmdb sp!,{r4,lr}
+4098e3bc  cmp r0,#0x2
+4098e3c0  cpy r4,r1
+4098e3c4  bge 0x4098e3d4
+4098e3c8  adr r0,0x4098e740
+4098e3cc  bl 0x4067cd44
+4098e3d0  b 0x4098e3ec
+4098e3d4  bl 0x4098d8e0
+4098e3d8  ldr r1,[r4,#0x4]
+4098e3dc  bl 0x4098e000
+4098e3e0  cmp r0,#0x0
+4098e3e4  movne r0,#0x0
+4098e3e8  ldmiane sp!,{r4,pc}
+4098e3ec  mvn r0,#0x0
+4098e3f0  ldmia sp!,{r4,pc}

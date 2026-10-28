@@ -1,0 +1,125 @@
+offset_main	virtual_address	text
+0x00001570	0x40001570	m_pcPortTestMode
+0x0030e41c	0x4030e41c	/v1/photos
+0x0030e428	0x4030e428	/v1/props
+0x00409617	0x40409617	@TetherFileSequencer.cpp
+0x0040963c	0x4040963c	TetherFileSeq
+0x0040964c	0x4040964c	m_pcTetherFile
+0x0043a114	0x4043a114	pcPtpOperationFactory != 0
+0x004473cb	0x404473cb	@TetherFile.cpp
+0x004473e8	0x404473e8	TetherFile
+0x004473f7	0x404473f7	@CTetherFile::Open error : already opened.
+0x00447424	0x40447424	CTetherFile::Open error : already closed.
+0x00447450	0x40447450	CTetherFile::Read not supported.
+0x00447474	0x40447474	CTetherFile::Write error : file is not opened.
+0x00447678	0x40447678	CTetherFile::GetFileSize not supported.
+0x004476a0	0x404476a0	CTetherFile::GetFilePointer not supported.
+0x004d5017	0x404d5017	@TetherFileServiceFactory.cpp
+0x004d5038	0x404d5038	m_pcTetherFileService
+0x004d5333	0x404d5333	@TetherFileService.cpp
+0x004d5358	0x404d5358	TetherFileService
+0x004d5a1b	0x404d5a1b	@tether GetCandidateFileInfo test
+0x004d5a4c	0x404d5a4c	tether GetFileOperatonCommand test
+0x004d5b74	0x404d5b74	tether NotifyCompleteFileOperation test
+0x005c13f7	0x405c13f7	@PtpOperation.cpp
+0x005c140c	0x405c140c	m_pcPtpResponse
+0x006dad62	0x406dad62	m@eSubAutoTestMode < eSubAutoTestMode_Max
+0x006eccdb	0x406eccdb	@PtpOperationFactory.cpp
+0x006eccf4	0x406eccf4	m_pcPtpPackageBuilder != 0
+0x006ecd10	0x406ecd10	m_pcPtpInstanceHolder != 0
+0x006ecd2c	0x406ecd2c	m_pcPtpResponderTransaction != 0
+0x006ecd50	0x406ecd50	m_pcPtpRequesterTransaction != 0
+0x006ecd74	0x406ecd74	m_pcPtpFileService
+0x006ece24	0x406ece24	m_pcPtpBackgroundFileAccess
+0x006ed1f0	0x406ed1f0	m_pcPtpCameraModeControl
+0x00821497	0x40821497	@CapSysTestMode.cpp
+0x00822b4f	0x40822b4f	@AfTestMode.cpp
+0x0089d5c7	0x4089d5c7	@PtpPackageBuilder.cpp
+0x0089d7ac	0x4089d7ac	m_pcPtpNotSupportedOperation
+0x0089d7cc	0x4089d7cc	m_pcPtpUndefinedOperation
+0x0089eeab	0x4089eeab	@PtpFileService.cpp
+0x0089ef34	0x4089ef34	m_pcPtpObjectHandleSpec
+0x0089ef4c	0x4089ef4c	m_pcPtpStorageIDSpec
+0x0089ef64	0x4089ef64	m_pcPtpBackgroundFileAccess
+0x008a1a2b	0x408a1a2b	@(PtpFileService)
+0x008a3c3b	0x408a3c3b	@PtpFileTranslateServiceFactory.cpp
+0x008ce957	0x408ce957	@PtpOperationData.cpp
+0x008ceb83	0x408ceb83	@(CPtpExtendBufferControl)
+0x008ceba3	0x408ceba3	@PtpExtendBufferControl.cpp
+0x008cfdd7	0x408cfdd7	@( m_puiPtpReceiveBuffer != 0 ) && uiPtpReceiveLength
+0x0091d4ef	0x4091d4ef	@PtpGetObject.cpp
+0x0091d504	0x4091d504	pcPtpBackgroundFileAccess
+0x00921390	0x40921390	(CPtpGetObjectPropList)
+0x00922fc3	0x40922fc3	@PtpGetPartialObject.cpp
+0x00922fdc	0x40922fdc	pcPtpBackgroundFileAccess
+0x00925acc	0x40925acc	ExtPtpBackgroundFileAccess
+0x00925aeb	0x40925aeb	@PtpBackgroundFileAccess.cpp
+0x00925f67	0x40925f67	@PtpFileAccesse
+0x00925f87	0x40925f87	@PtpFileAccessCompletionQueue.cpp
+0x00926307	0x40926307	@PtpFileSendingService.cpp
+0x00926324	0x40926324	m_pcPtpFileTranslateRequestListener
+0x00927457	0x40927457	@PtpSetPentaxVendorMode.cpp
+0x0092a95b	0x4092a95b	@UsbDeviceSicdPtpCancelOperation.cpp
+0x0092aba3	0x4092aba3	@UsbDeviceSicdPtpGetDeviceStatus.cpp
+0x009ebc60	0x409ebc60	HTTP/1.1 200 OK
+0x009ef218	0x409ef218	HTTP/
+0x009f0264	0x409f0264	HTTP/1.1
+0x009f06e9	0x409f06e9	s'AHTTP/1.1
+0x00aca6ab	0x40aca6ab	BuildPtpOperationPackage
+0x00aca6c4	0x40aca6c4	BuildPtpEventPackage
+0x00aca6d9	0x40aca6d9	CreatePtpOperations
+0x00aca6ed	0x40aca6ed	CreatePtpEvents
+0x00aca7aa	0x40aca7aa	PtpExtendBufferCreate
+0x00aca893	0x40aca893	RegisterPtpFileTranslateRequestListener
+0x00aca8bb	0x40aca8bb	RegisterPictBridgePtpResultEventListener
+0x00aca9c1	0x40aca9c1	CreatePtpReceiveProtocols
+0x00acaa75	0x40acaa75	CUsbDeviceSicdPtpCancelOperation
+0x00acaa96	0x40acaa96	CUsbDeviceSicdPtpGetDeviceStatus
+0x00df6348	0x40df6348	C:\script\shutdown.ttl
+0x00df6360	0x40df6360	C:\script\startup.ttl
+0x00df7320	0x40df7320	<kml xmlns="http://www.opengis.net/kml/2.2">
+0x00df76c1	0x40df76c1	     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+0x00df77ed	0x40df77ed	     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+0x00df7957	0x40df7957	     <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+0x00df7a27	0x40df7a27	     <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+0x00df7b2d	0x40df7b2d	     <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+0x00df7bf9	0x40df7bf9	     <href>http://maps.google.com/mapfiles/kml/shapes/flag.png</href>
+0x00dfb470	0x40dfb470	/v1/variables/camera
+0x00dfb488	0x40dfb488	/v1/params/camera
+0x00dfb49c	0x40dfb49c	/v1/props/camera
+0x00dfb4b0	0x40dfb4b0	/v1/constants/camera
+0x00dfb4c8	0x40dfb4c8	/v1/status/camera
+0x00dfb4dc	0x40dfb4dc	/v1/variables/device
+0x00dfb4f4	0x40dfb4f4	/v1/params/device
+0x00dfb508	0x40dfb508	/v1/props/device
+0x00dfb51c	0x40dfb51c	/v1/constants/device
+0x00dfb534	0x40dfb534	/v1/status/device
+0x00dfb548	0x40dfb548	/v1/ping
+0x00dfb554	0x40dfb554	/v1/camera/shoot/finish
+0x00dfb56c	0x40dfb56c	/v1/photos/:path
+0x00dfb580	0x40dfb580	/v1/liveview/zoom
+0x00dfb594	0x40dfb594	/v1/photos/:path/info
+0x00dfb5ac	0x40dfb5ac	/v1/photos/latest/info
+0x00dfb5c4	0x40dfb5c4	/v1/changes
+0x00dfb5d0	0x40dfb5d0	/v1/variables
+0x00dfb5e0	0x40dfb5e0	/v1/apis
+0x00dfb5ec	0x40dfb5ec	/v1/params
+0x00dfb5f8	0x40dfb5f8	/v1/variables/lens
+0x00dfb60c	0x40dfb60c	/v1/params/lens
+0x00dfb61c	0x40dfb61c	/v1/props/lens
+0x00dfb62c	0x40dfb62c	/v1/constants/lens
+0x00dfb640	0x40dfb640	/v1/status/lens
+0x00dfb650	0x40dfb650	/v1/photos
+0x00dfb65c	0x40dfb65c	/v1/props
+0x00dfb668	0x40dfb668	/v1/constants
+0x00dfb678	0x40dfb678	/v1/lens/focus
+0x00dfb688	0x40dfb688	/v1/status
+0x00dfb694	0x40dfb694	/v1/camera/shoot
+0x00dfb6a8	0x40dfb6a8	/v1/camera/shoot/start
+0x00dfb6c0	0x40dfb6c0	/v1/liveview
+0x00dfb6d0	0x40dfb6d0	/v1/variables/liveview
+0x00dfb6e8	0x40dfb6e8	/v1/params/liveview
+0x00dfb6fc	0x40dfb6fc	/v1/props/liveview
+0x00dfb710	0x40dfb710	/v1/constants/liveview
+0x00dfb728	0x40dfb728	/v1/status/liveview
+0x00dfb73c	0x40dfb73c	HTTP/1.1 101 Switching Protocols

@@ -1,0 +1,311 @@
+offset	text
+0x000000a0	OIOSMUON       
+0x000000b0	Copyright (C) RICOH COMPANY, LTD
+0x000000e0	PENTAX  
+0x00000100	FirmwareLoaderService_UpdateCpuDspFirmware
+0x00000174	c2dtest
+0x00000184	reset
+0x000001a4	getport
+0x000001b4	setport
+0x000001c4	pdump
+0x000001e4	gpscom
+0x00000204	siauto
+0x00000224	powersel
+0x00000234	ledtest
+0x00000244	pacdmp
+0x00000254	pacflt
+0x00000264	gpstest
+0x00000284	dcomdmy
+0x00000294	g200p
+0x000002a4	memdump
+0x00001137	uJA /uAX
+0x000011eb	..u^*!
+0x00001237	Pnd!W
+0x00001565	fh.a|~uH
+0x00001582	fX!D|~!
+0x000016f6	XnuG2aN
+0x00001726	Xna^!
+0x0000188c	[Ua%#
+0x00001ad1	)\.d>l
+0x00001b52	 1fA9
+0x00001c71	u5(u%{
+0x00001f9c	CquQ3#
+0x000021c2	nk`@<
+0x00002346	CquQ3#
+0x0000249c	Y^`u><
+0x0000256b	T $uT, 
+0x000026b5	a^ "a~ %a
+0x0000270d	 huS )
+0x00002798	uQ-uN
+0x0000285f	kE `b
+0x00002868	uV0)VuV7*Q
+0x00002920	uT0)vuT7*q
+0x0000293b	k4 \uC
+0x00002966	uX0uE1
+0x00002a68	uV ;`
+0x00002ada	qCafb9
+0x00002b16	 luU0)
+0x00002b33	.AuUa)!uUf*
+0x00002c33	uJd[fq
+0x00002dca	ng`@<
+0x00002e08	aQ &aq /a
+0x00002e12	 8.tf
+0x00002e8b	ng`@q
+0x00002f04	CSlsu$
+0x0000301d	nu^  
+0x00003c7c	Xnu.{
+0x00003cbf	CquQ3#
+0x00003d66	CquQ3#
+0x00003d95	CauQ3#
+0x00003f7d	Xnu.{
+0x00003fb0	CquQ3#
+0x00004067	CauQ3#
+0x00004290	oh.n?h
+0x00004964	!+XnuO
+0x00004c9a	!9]4 
+0x00004cd5	!=]1&
+0x00004d4c	!9]45
+0x00004d87	!&]1;
+0x00004f5d	KB`Bf
+0x0000503b	f)X~h>d
+0x000055f7	 2a.:
+0x00005629	a/!4f
+0x000057e5	uQ&*(
+0x00005881	d,l+W
+0x00005887	dKlJW
+0x00005894	u) l8W
+0x00005976	xnu._
+0x00005998	xbu"_
+0x00005aec	YO u/7a
+0x00005afe	`YN`u.?
+0x00005bae	g|\nw.
+0x00005bb8	n\nw.
+0x00005bc7	n\nw.
+0x00005bd0	n\nw.
+0x00005bd9	n\nw.
+0x00005be2	n\nw.
+0x00005c2c	 5uQA &uQ# &uQ7 !uQ
+0x00005cf7	nXne>v.
+0x00005d8e	bM.(aD 
+0x00005eb5	a$!;X4uV
+0x00005ee4	XSGdzC$
+0x00005ef6	XTD6zD#
+0x00005fbb	.Ka_*
+0x00005ff5	buG_)
+0x0000600c	_eG_"
+0x00006105	XUXN`e[UX
+0x00006117	.F`O.
+0x00006213	.D[_b
+0x0000641b	C YN`u.?
+0x00006511	Xoxou/_
+0x00006519	oXoxOv/
+0x0000652f	ixau!_
+0x00006538	ixAv!
+0x00006658	<"V<#
+0x00006695	N QE`
+0x0000669b	E`XN~
+0x00006791	a/#Rq
+0x00006798	a/#Kq
+0x0000679f	a/"sY
+0x00006afa	u/`u_`
+0x00006b19	/u/`u_`
+0x00006c69	YN u.
+0x00006c70	N YN`u.
+0x00006c79	N`XNu.
+0x00006c81	NY> u.?
+0x00006c89	> Y>`u.?
+0x00006c92	>`X>u.?
+0x00006ccb	u'`Wgl!Wq
+0x00006cfa	lHWxlaW
+0x00006d89	b'f.q
+0x000077f1	!vX~a
+0x00007817	uJ#!0
+0x0000790d	!NXqa
+0x00007a70	bNaF!
+0x00007a76	YN lBd
+0x00007ee1	O YN`xN
+0x00008100	nu>x[
+0x00008156	nu.pu^p
+0x000081f0	u1x9;
+0x000082a1	u"@u#@d4
+0x000084e9	xOu/?
+0x0000858a	aV 3a
+0x00008590	 La6 BaF 
+0x000085ab	a7 #aW!@og
+0x000085c6	aG!)og
+0x00008641	x%[^a~;
+0x000086bd	 (aw*$
+0x000086dc	uA_og
+0x00008705	uH~!]Xea
+0x0000870f	oh.dau
+0x00008a30	u[P ![
+0x00008a56	=rP<s
+0x00008a93	[#[R[
+0x00008aa1	[#[R[
+0x00008aaf	[#[R[
+0x00008b36	lDCO[
+0x00008b8a	lCC4D_
+0x00008cba	Qq" q
+0x00008d7d	\UG_%
+0x00008e5a	Aq" q
+0x00008f75	ar!SK
+0x00009015	uQ, iuQ* duQ.
+0x000090a3	u^* +b
+0x000092d9	u!?Wq
+0x000093c1	u.?a.*
+0x0000940e	hqw u
+0x000095e7	ngf19
+0x00009605	!DfA9
+0x00009791	`Ga'#0f
+0x00009c1a	 *a!uO
+0x00009c27	 +a1f
+0x00009eb2	`KTqD
+0x0000a10b	auQe)
+0x0000a2dd	.Sa.!
+0x0000a2ef	.Aa>!,
+0x0000a3e5	%(a1!
+0x0000a491	Xna^!$
+0x0000a54b	uQe#T
+0x0000a558	.Ja.!?
+0x0000a5e9	.fa.!;
+0x0000a619	uQe#3
+0x0000a626	.)a> %aN!
+0x0000a78d	*AG#%
+0x0000aae7	JJ*06<AF
+0x0000aaf6	:@EJV\dj
+0x0000ab00	KB597CPU project RX113
+0x0000ab19	CPU MODE
+0x0000ab2e	Unknown
+0x0000ab3b	Start MainLoop
+0x0000ab4d	Auto Power Off.
+0x0000ab5f	Main sw off.
+0x0000ab6e	Power Off.
+0x0000ab7b	Boot trigger Error.
+0x0000ab91	DSP Power ON.
+0x0000aba1	System Activate.
+0x0000abb4	System activation omitted.
+0x0000abd1	HS error, SD BOOT mode.
+0x0000abeb	Start Active roop.
+0x0000ac00	Enter ReleaseMode.
+0x0000ac15	ReleaseTimeOut.
+0x0000ac27	Exit ReleaseMode.
+0x0000ac3f	Boot : 
+0x0000ac47	BC LOCK - GPS TX Timeout.
+0x0000ac63	Boot int High error.
+0x0000ac80	Command Error.
+0x0000ac96	Show command list
+0x0000acad	 - complete.
+0x0000acc0	PORT@@ = 
+0x0000accc	Error
+0x0000acd4	Set PORT@@ -> @
+0x0000ace4	PORTDUMP
+0x0000acee	          PDR      PMR      PCR      PODR     PIDR  
+0x0000ad25	PORT @
+0x0000ad35	SCI5 Length 
+0x0000ad42	 Time 
+0x0000ad59	 SI LCD Test Complete.
+0x0000ad74	Start SI LCD Test
+0x0000ad87	First> Soft Reset.
+0x0000ad9c	Settings.
+0x0000ada8	2 -> 128 seg ON
+0x0000ae5f	UWUUUUP
+0x0000ae8a	0:Normal
+0x0000ae95	1:Background
+0x0000aea4	2:Horizontal bar
+0x0000aeb7	3:Vertical bar
+0x0000aec8	4:Crop square 1
+0x0000aeda	5:Crop square 2
+0x0000aeec	6:Crop APS 1
+0x0000aefb	7:Crop APS 2
+0x0000af0a	8:Grid line
+0x0000af18	9:AF1
+0x0000af20	A:AF2
+0x0000af28	B:Grid line + AF1
+0x0000af3c	C:All without Back
+0x0000af88	Packet Dump Enable.
+0x0000af9e	Packet Dump Disable.
+0x0000afb5	Packet filter 
+0x0000afd1	SD DOOR DUMMY OPEN.
+0x0000afe7	SD DOOR DUMMY DISABLE.
+0x0000b000	Error - Invalidate param.
+0x0000b01c	ADDRESS 
+0x0000b02b	    0  1  2  3  4  5  6  7  8  9  A  B  C  D  E  F
+0x0000b061	   -----------------------------------------------
+0x0000b09c	T:@@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@ @@
+0x0000b0d4	HS(H) Timeout.
+0x0000b0e5	HS(L) Timeout.
+0x0000b0f6	HS Timeout, waiting for DSP_TO_CPU_2 Low.
+0x0000b122	DTOC2 :
+0x0000b12a	 msec.
+0x0000b138	HS Timeout, waiting for DSP_TO_CPU_1 High.
+0x0000b165	HS Timeout, waiting for DSP_TO_CPU_1 Low.
+0x0000b194	DSP Power OFF
+0x0000b1a6	Sleep mode......
+0x0000b1bb	system wake up.
+0x0000b1cd	ERROR!!
+0x0000b1d5	No Batt in grip.
+0x0000b1e8	ERROR!!
+0x0000b1f0	No External Current.
+0x0000b207	Power select 
+0x0000b21a	 --- 1 --- 
+0x0000b22d	 --- 2 --- 
+0x0000b23d	 --- 3 --- 
+0x0000b24d	 --- 4 --- 
+0x0000b25d	 --- INITIAL G200AD --- 
+0x0000b278	 -------------- 
+0x0000b298	RamCodeCopy.
+0x0000b2ab	FW up start.
+0x0000b2b9	HS01.
+0x0000b2c0	Error - FW loader Timeout.
+0x0000b2dd	HS02.
+0x0000b2e4	DTOC2 High.
+0x0000b2f2	CardOff.
+0x0000b2fc	ms, -
+0x0000b302	- OK.
+0x0000b30a	Waiting for DSP FW write.
+0x0000b325	DSP FW write start.
+0x0000b33a	DSP FW write complete.
+0x0000b352	500ms wait.
+0x0000b360	GPS TRANSITION ERROR!! Mode:0x
+0x0000b382	GPS TRANSITION ERROR RECOVERY.
+0x0000b3a3	Log dump error, Recovery.
+0x0000b3c0	Queue OverFlow.
+0x0000b3d4	Invalid receive.
+0x0000b3e7	Get Line OverRun.
+0x0000b3fc	PGGAPGSAPGSVPRMCPVTGPZDAPGLLPMTK
+0x0000b420	001,010,011,LOG,LOX,707,$PMTK187,1,5*38
+0x0000b44a	$PMTK187,1,10*0C
+0x0000b45d	$PMTK187,1,15*09
+0x0000b470	$PMTK187,1,30*0E
+0x0000b483	$PMTK187,1,60*0B
+0x0000b496	$PMTK225,2,4000,1000,0,0*2C
+0x0000b4b4	$PMTK225,2,4000,6000,0,0*2B
+0x0000b4d2	$PMTK225,2,4000,11000,0,0*1D
+0x0000b4f1	$PMTK225,2,4000,26000,0,0*19
+0x0000b510	$PMTK225,2,4000,56000,0,0*1E
+0x0000b52f	$PMTK101*32
+0x0000b53d	$PMTK102*31
+0x0000b54b	$PMTK103*30
+0x0000b559	$PMTK104*37
+0x0000b567	GPS transit stop @ Power OFF.
+0x0000b588	GPS state error @ Power OFF.
+0x0000b5a5	[GPS] 
+0x0000b5ac	 SET ERROR
+0x0000b5b9	$PMTK000*32
+0x0000b5c7	$PMTK225,0*2B
+0x0000b5d7	$PMTK225,2,180000,3420000,180000,5220000*29
+0x0000b605	$PMTK223,1,25,180000,60000*38
+0x0000b625	$PMTK161,0*28
+0x0000b635	$PMTK185,0*22
+0x0000b645	$PMTK185,1*23
+0x0000b655	$PMTK183*38
+0x0000b663	$PMTK184,1*22
+0x0000b673	$PMTK622,1*29
+0x0000b683	$PMTK607*33
+0x0000b694	BufferSizeError
+0x0000b6a6	Stop log
+0x0000b6b4	LogStart!
+0x0000b6c0	PeriodicStandbySequence Canceled.
+0x0000b91b	bAbB`
+0x0000ba51	PnfoW~a!
+0x0000bd02	uLda.!

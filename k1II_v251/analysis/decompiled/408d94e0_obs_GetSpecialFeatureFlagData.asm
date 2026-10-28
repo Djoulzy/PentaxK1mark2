@@ -1,0 +1,20 @@
+408d94e0  stmdb sp!,{r3,r4,r5,lr}
+408d94e4  cpy r5,r0
+408d94e8  mov r4,#0x0
+408d94ec  bl 0x40497bbc
+408d94f0  ldr r0,[r0,#0x4]
+408d94f4  cpy r1,r5
+408d94f8  bl 0x406716e4
+408d94fc  sub r1,r5,#0x80
+408d9500  cmp r1,#0x10
+408d9504  addcc pc,pc,r1, lsl #0x2
+408d9508  b 0x408d95d0
+408d95d0  ldr r0,[0x408d97ec]
+408d95d4  adr r2,0x408d97f0
+408d95d8  adr r1,0x408d9800
+408d95dc  mov r3,#0xb2
+408d95e0  str r0,[sp,#0x0]
+408d95e4  mov r0,#0x0
+408d95e8  bl 0x4067ca30
+408d95ec  cpy r0,r4
+408d95f0  ldmia sp!,{r3,r4,r5,pc}

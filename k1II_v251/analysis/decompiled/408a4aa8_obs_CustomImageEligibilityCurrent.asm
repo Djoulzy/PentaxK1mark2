@@ -1,0 +1,11 @@
+408a4aa8  stmdb sp!,{r4,r5,r6,lr}
+408a4aac  cpy r5,r0
+408a4ab0  bl 0x4063e044
+408a4ab4  bl 0x4064097c
+408a4ab8  cpy r4,r0
+408a4abc  bl 0x408d8ca4
+408a4ac0  cpy r1,r0
+408a4ac4  cpy r2,r4
+408a4ac8  cpy r0,r5
+408a4acc  ldmia sp!,{r4,r5,r6,lr}
+408a4ad0  b 0x408a4a8c

@@ -1,0 +1,12 @@
+409f4108  stmdb sp!,{r4,lr}
+409f410c  cmp r0,#0x2
+409f4110  ldr r4,[0x409f35b4]
+409f4114  ldrge r0,[r1,#0x4]
+409f4118  movlt r0,#0x0
+409f411c  blge 0x4066f20c
+409f4120  cpy r1,r0
+409f4124  str r0,[r4,#0x4]
+409f4128  adr r0,0x409f41c8
+409f412c  bl 0x4067cd44
+409f4130  mov r0,#0x0
+409f4134  ldmia sp!,{r4,pc}

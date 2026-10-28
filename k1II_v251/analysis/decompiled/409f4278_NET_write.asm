@@ -1,0 +1,10 @@
+409f4278  stmdb sp!,{r4,lr}
+409f427c  ldr r4,[0x409f35b4]
+409f4280  adr r0,0x409f4438
+409f4284  ldr r1,[r4,#0x4]
+409f4288  bl 0x4067cd44
+409f428c  bl 0x409f459c
+409f4290  ldr r1,[r4,#0x4]
+409f4294  bl 0x409f4db0
+409f4298  mov r0,#0x0
+409f429c  ldmia sp!,{r4,pc}

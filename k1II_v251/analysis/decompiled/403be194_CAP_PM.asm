@@ -1,0 +1,12 @@
+403be194  adr r0,0x403be37c
+403be198  stmdb sp!,{r4,lr}
+403be19c  bl 0x4067cd44
+403be1a0  bl 0x402675cc
+403be1a4  ldr r0,[r0,#0x10]
+403be1a8  mov r2,#0x0
+403be1ac  ldr r1,[r0,#0x0]
+403be1b0  ldr r3,[r1,#0x20]
+403be1b4  ldr r1,[0x403be39c]
+403be1b8  blx r3
+403be1bc  mov r0,#0x0
+403be1c0  ldmia sp!,{r4,pc}

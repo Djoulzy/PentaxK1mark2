@@ -1,0 +1,17 @@
+408d8ca4  stmdb sp!,{r4,lr}
+408d8ca8  sub sp,sp,#0x88
+408d8cac  cpy r0,sp
+408d8cb0  bl 0x40661274
+408d8cb4  cpy r4,sp
+408d8cb8  bl 0x406765c4
+408d8cbc  ldr r0,[r0,#0x4]
+408d8cc0  cpy r1,r4
+408d8cc4  bl 0x40661368
+408d8cc8  cpy r0,sp
+408d8ccc  bl 0x408d8c44
+408d8cd0  cpy r4,r0
+408d8cd4  cpy r0,sp
+408d8cd8  bl 0x40661510
+408d8cdc  add sp,sp,#0x88
+408d8ce0  cpy r0,r4
+408d8ce4  ldmia sp!,{r4,pc}

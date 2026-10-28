@@ -1,0 +1,230 @@
+[
+  {
+    "call_va": "0x404eda18",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 2
+  },
+  {
+    "call_va": "0x40649c60",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 10
+  },
+  {
+    "call_va": "0x40649d90",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 10
+  },
+  {
+    "call_va": "0x4064d568",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 10
+  },
+  {
+    "call_va": "0x4064d690",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 10
+  },
+  {
+    "call_va": "0x4065ccb8",
+    "target_va": "0x4065b124",
+    "name": "LoadSysparamFile",
+    "preceding_mov_r1_immediate": null
+  },
+  {
+    "call_va": "0x406b9918",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 10
+  },
+  {
+    "call_va": "0x407630ec",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 2
+  },
+  {
+    "call_va": "0x40763894",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 2
+  },
+  {
+    "call_va": "0x40765500",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 2
+  },
+  {
+    "call_va": "0x4076cc58",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 2
+  },
+  {
+    "call_va": "0x4076d5ec",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 2
+  },
+  {
+    "call_va": "0x4076d6c8",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 2
+  },
+  {
+    "call_va": "0x4076e654",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 11
+  },
+  {
+    "call_va": "0x4076ed08",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 7
+  },
+  {
+    "call_va": "0x4076ed48",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 8
+  },
+  {
+    "call_va": "0x4077f250",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 11
+  },
+  {
+    "call_va": "0x40788014",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 7
+  },
+  {
+    "call_va": "0x4078808c",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 8
+  },
+  {
+    "call_va": "0x40788174",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 7
+  },
+  {
+    "call_va": "0x40788188",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": null
+  },
+  {
+    "call_va": "0x4078819c",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": null
+  },
+  {
+    "call_va": "0x407881b0",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": null
+  },
+  {
+    "call_va": "0x40792070",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 2
+  },
+  {
+    "call_va": "0x4079560c",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 0
+  },
+  {
+    "call_va": "0x407b3ed0",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 2
+  },
+  {
+    "call_va": "0x407fed04",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": null
+  },
+  {
+    "call_va": "0x407fee3c",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": null
+  },
+  {
+    "call_va": "0x40814dec",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 14
+  },
+  {
+    "call_va": "0x408a49b8",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 3
+  },
+  {
+    "call_va": "0x408a49e4",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 4
+  },
+  {
+    "call_va": "0x408a4a10",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 5
+  },
+  {
+    "call_va": "0x408a4a48",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 6
+  },
+  {
+    "call_va": "0x408d9abc",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": null
+  },
+  {
+    "call_va": "0x408e92f0",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 7
+  },
+  {
+    "call_va": "0x408e931c",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": null
+  },
+  {
+    "call_va": "0x408e969c",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 11
+  },
+  {
+    "call_va": "0x408f862c",
+    "target_va": "0x408d9998",
+    "name": "GetFeatureAvailability",
+    "preceding_mov_r1_immediate": 11
+  }
+]

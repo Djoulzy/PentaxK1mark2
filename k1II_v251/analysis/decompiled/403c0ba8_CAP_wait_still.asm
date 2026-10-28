@@ -1,0 +1,17 @@
+403c0ba8  stmdb sp!,{r4,r5,r6,lr}
+403c0bac  bl 0x402675cc
+403c0bb0  ldr r4,[r0,#0x10]
+403c0bb4  bl 0x403726c8
+403c0bb8  ldr r5,[r0,#0x8]
+403c0bbc  ldrb r0,[r4,#0x12b]
+403c0bc0  cmp r0,#0x0
+403c0bc4  ldreq r0,[r4,#0xa4]
+403c0bc8  cmpeq r0,#0x0
+403c0bcc  bne 0x403c0be0
+403c0bd0  cpy r0,r5
+403c0bd4  bl 0x402fcafc
+403c0bd8  cmp r0,#0x0
+403c0bdc  ldmiaeq sp!,{r4,r5,r6,pc}
+403c0be0  mov r0,#0xc8
+403c0be4  bl 0x4067ab8c
+403c0be8  b 0x403c0bbc

@@ -1,0 +1,10 @@
+4000ded0  stmdb sp!,{r4,lr}
+4000ded4  bl 0x40006df0
+4000ded8  movw r1,#0x129
+4000dedc  bl 0x40006ea4
+4000dee0  cpy r4,r0
+4000dee4  bl 0x4000c698
+4000dee8  cpy r0,r4
+4000deec  bl 0x4000c64c
+4000def0  mov r0,#0x0
+4000def4  ldmia sp!,{r4,pc}

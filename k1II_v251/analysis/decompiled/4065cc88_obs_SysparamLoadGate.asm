@@ -1,0 +1,17 @@
+4065cc88  stmdb sp!,{r4,lr}
+4065cc8c  cpy r4,r0
+4065cc90  ldrb r0,[r0,#0x4]
+4065cc94  cmp r0,#0x0
+4065cc98  ldmiane sp!,{r4,pc}
+4065cc9c  bl 0x4063e044
+4065cca0  bl 0x4064f5f0
+4065cca4  cmp r0,#0x0
+4065cca8  ldmiaeq sp!,{r4,pc}
+4065ccac  mov r0,#0x64
+4065ccb0  bl 0x4067ab8c
+4065ccb4  cpy r0,r4
+4065ccb8  bl 0x4065b124
+4065ccbc  cmp r0,#0x0
+4065ccc0  movne r0,#0x1
+4065ccc4  strbne r0,[r4,#0x4]
+4065ccc8  ldmia sp!,{r4,pc}

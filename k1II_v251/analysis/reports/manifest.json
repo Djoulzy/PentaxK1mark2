@@ -1,0 +1,790 @@
+{
+  "input": {
+    "file": "fwdc240b.bin",
+    "size": 18880016,
+    "sha256": "f76874f40f236049c0d53c9bd448846ea325313c43f0f75507d7d62fdbcf0809",
+    "sum_le_u32_mod_2_32": 0
+  },
+  "header_words": {
+    "0x18": "0x255",
+    "0x1c": "0x13240",
+    "0x20": "0x1201610",
+    "0x24": "0x2",
+    "0x28": "0x233",
+    "0x2c": "0x233",
+    "0x30": "0x200",
+    "0x34": "0x15ffff0",
+    "0x38": "0x681bdba1",
+    "0x3c": "0x7e0200",
+    "0x40": "0x20000",
+    "0x44": "0x191730a",
+    "0x48": "0x800200",
+    "0x4c": "0x1400"
+  },
+  "sections": [
+    {
+      "name": "main",
+      "input_start": "0x200",
+      "input_end": "0x685db2",
+      "output_size": 33554432,
+      "sha256": "23ec10ae75c98c46a21a505e4d7f64451d6c4a71655a65710ca5aa67fb166e95",
+      "blocks": 1365,
+      "padding_size": 1418318,
+      "padding_nonzero": 0
+    },
+    {
+      "name": "sub",
+      "input_start": "0x7e0200",
+      "input_end": "0x7e9209",
+      "output_size": 131072,
+      "sha256": "52d7396a1848a7fb77eaf7b9edceca50bff3e619d073f4013608f8122bb56d3c",
+      "blocks": 5,
+      "padding_size": 94199,
+      "padding_nonzero": 0
+    }
+  ],
+  "resources": [
+    {
+      "name": "A:\\cmd_dc.txt",
+      "input_offset": "0x801600",
+      "size": 16608,
+      "sha256": "501a74e4c430437a43a8236834adb31d695b1f111ecf269683c51d41516b8aac",
+      "file": "analysis/extracted/resources/A/cmd_dc.txt"
+    },
+    {
+      "name": "A:\\Icon\\Icon.bin",
+      "input_offset": "0x8056f0",
+      "size": 1271233,
+      "sha256": "dceb33c956f50543329a064a026c10d0109eddc6866eca746ee935a267e9a601",
+      "file": "analysis/extracted/resources/A/Icon/Icon.bin"
+    },
+    {
+      "name": "A:\\Jpeg\\AstroSet.jpg",
+      "input_offset": "0x93bcc0",
+      "size": 156768,
+      "sha256": "612cbbeab2620bba8cfe5327be9dc97ce25613f803a58f0c295a961bdd959ad5",
+      "file": "analysis/extracted/resources/A/Jpeg/AstroSet.jpg"
+    },
+    {
+      "name": "A:\\Jpeg\\Direct.jpg",
+      "input_offset": "0x962130",
+      "size": 162339,
+      "sha256": "4f3ae66c832bb770a823aeee3da5d8f22d7cb95f05d05853426d25f0f86cb4ec",
+      "file": "analysis/extracted/resources/A/Jpeg/Direct.jpg"
+    },
+    {
+      "name": "A:\\Jpeg\\GradNd.jpg",
+      "input_offset": "0x989b60",
+      "size": 64715,
+      "sha256": "0d458bc9d7cc0f907e360847d23e6d2fdbfb5781565c313756e57aa3cd00f13d",
+      "file": "analysis/extracted/resources/A/Jpeg/GradNd.jpg"
+    },
+    {
+      "name": "A:\\Jpeg\\LcdAdj.jpg",
+      "input_offset": "0x999830",
+      "size": 22365,
+      "sha256": "0e82d2fe03a29dd824dddd3642a908d6a09db7261557b229d80484d6fde6e464",
+      "file": "analysis/extracted/resources/A/Jpeg/LcdAdj.jpg"
+    },
+    {
+      "name": "A:\\Jpeg\\Menu.jpg",
+      "input_offset": "0x99ef90",
+      "size": 53486,
+      "sha256": "2dfa3cf4a4c6828ae43237c658e98682ff870a09b4aae3f8e7576d58ee9cce4a",
+      "file": "analysis/extracted/resources/A/Jpeg/Menu.jpg"
+    },
+    {
+      "name": "A:\\Jpeg\\StartUp.jpg",
+      "input_offset": "0x9ac080",
+      "size": 2583,
+      "sha256": "3e36475c552bde5f0f8444776a4649c743c85c07fd8090afe5a9fd6f3a61b0f0",
+      "file": "analysis/extracted/resources/A/Jpeg/StartUp.jpg"
+    },
+    {
+      "name": "A:\\KB597s.bin",
+      "input_offset": "0x9acaa0",
+      "size": 49152,
+      "sha256": "39453dfc3e4eba8215bd0f46d2ce8bd87254928cc3615c5ea66cba80b7270816",
+      "file": "analysis/extracted/resources/A/KB597s.bin"
+    },
+    {
+      "name": "A:\\LE\\LE_CN_S.bin",
+      "input_offset": "0x9b8ab0",
+      "size": 13812,
+      "sha256": "cf8310f19b17735f2a9394143e43c87cb9f6b70f7f7b7dc78b55ae93c63b98cd",
+      "file": "analysis/extracted/resources/A/LE/LE_CN_S.bin"
+    },
+    {
+      "name": "A:\\LE\\LE_CN_T.bin",
+      "input_offset": "0x9bc0b0",
+      "size": 12152,
+      "sha256": "96ece82dbbc95d9baff6c59bbbed9d2beb0967fe61fbfa61bb5b5941d75ccb70",
+      "file": "analysis/extracted/resources/A/LE/LE_CN_T.bin"
+    },
+    {
+      "name": "A:\\LE\\LE_JP.bin",
+      "input_offset": "0x9bf030",
+      "size": 12112,
+      "sha256": "435f8f51693327077fc42c1efd2e893cf4f3f3beae90fb5d56db89052b50844e",
+      "file": "analysis/extracted/resources/A/LE/LE_JP.bin"
+    },
+    {
+      "name": "A:\\LE\\LE_KR.bin",
+      "input_offset": "0x9c1f90",
+      "size": 12072,
+      "sha256": "d0157df4c5c973c1acfb0101559b640b70c6d83ab394f9b5510f5cdaa2a530d0",
+      "file": "analysis/extracted/resources/A/LE/LE_KR.bin"
+    },
+    {
+      "name": "A:\\LE\\LE_Latin.bin",
+      "input_offset": "0x9c4ec0",
+      "size": 20784,
+      "sha256": "d19d0cc91094635f130a8575942c4e8a46e80a19495415d2bf4352c83c911a75",
+      "file": "analysis/extracted/resources/A/LE/LE_Latin.bin"
+    },
+    {
+      "name": "A:\\RT\\RT_CN_S.bin",
+      "input_offset": "0x9ca000",
+      "size": 1746116,
+      "sha256": "2773119a02f36398cb450c18e8a7a1a42467c0b39dcc24267b85e84a133fa3c9",
+      "file": "analysis/extracted/resources/A/RT/RT_CN_S.bin"
+    },
+    {
+      "name": "A:\\RT\\RT_CN_T.bin",
+      "input_offset": "0xb744d0",
+      "size": 1019610,
+      "sha256": "fb02dd5793f3804a87ba609956d4077bba0b2534b7abe9a062efc9ff89121fae",
+      "file": "analysis/extracted/resources/A/RT/RT_CN_T.bin"
+    },
+    {
+      "name": "A:\\RT\\RT_JP.bin",
+      "input_offset": "0xc6d3b0",
+      "size": 646800,
+      "sha256": "b1cdcafc215d22945c75dcd4585510ede20b645b32401c2567f5e0e6085430c6",
+      "file": "analysis/extracted/resources/A/RT/RT_JP.bin"
+    },
+    {
+      "name": "A:\\RT\\RT_KR.bin",
+      "input_offset": "0xd0b250",
+      "size": 240206,
+      "sha256": "fdd12a4059bbc09b535109b0cb70fec026cd1e9836083937a9554f44edce310b",
+      "file": "analysis/extracted/resources/A/RT/RT_KR.bin"
+    },
+    {
+      "name": "A:\\RT\\RT_Latin.bin",
+      "input_offset": "0xd45ca0",
+      "size": 53880,
+      "sha256": "3f895099f3f121b2aaa52ed5f8673c5822961d673e3adcfae804190fd7a390c5",
+      "file": "analysis/extracted/resources/A/RT/RT_Latin.bin"
+    },
+    {
+      "name": "A:\\Sound\\AF_Beep.bin",
+      "input_offset": "0xd52f20",
+      "size": 8640,
+      "sha256": "07ea29773032786bc49675c06d4fc5652638016cff5844687364187d2ea2f80a",
+      "file": "analysis/extracted/resources/A/Sound/AF_Beep.bin"
+    },
+    {
+      "name": "A:\\Sound\\STF_Beep.bin",
+      "input_offset": "0xd550f0",
+      "size": 96012,
+      "sha256": "1aeac03f67026863885b8ef80292b583cd0f147e8a854daf22fb8f50361aa1eb",
+      "file": "analysis/extracted/resources/A/Sound/STF_Beep.bin"
+    },
+    {
+      "name": "A:\\Sound\\STS_Beep.bin",
+      "input_offset": "0xd6c800",
+      "size": 96012,
+      "sha256": "2e1d565550c4483942b0748c3fb7e1dcda21cec454143b7b9213a1d27dc8b667",
+      "file": "analysis/extracted/resources/A/Sound/STS_Beep.bin"
+    },
+    {
+      "name": "A:\\cmd_cc.txt",
+      "input_offset": "0xd83f10",
+      "size": 3792,
+      "sha256": "75e7577449bd937693d0e6f56e84320a19c961294b123e58199830931e5385eb",
+      "file": "analysis/extracted/resources/A/cmd_cc.txt"
+    },
+    {
+      "name": "B:\\LogData.bin",
+      "input_offset": "0xd84df0",
+      "size": 256,
+      "sha256": "a683c7f481ae0c8fd0110a85e644541788951bb5cd7dacbd1e0d4cf76713012a",
+      "file": "analysis/extracted/resources/B/LogData.bin"
+    },
+    {
+      "name": "B:\\Mode.bin",
+      "input_offset": "0xd84f00",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/B/Mode.bin"
+    },
+    {
+      "name": "B:\\SpFFlg01.bin",
+      "input_offset": "0xd84f10",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/B/SpFFlg01.bin"
+    },
+    {
+      "name": "B:\\SpFFlg02.bin",
+      "input_offset": "0xd84f30",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/B/SpFFlg02.bin"
+    },
+    {
+      "name": "B:\\SpFFlg03.bin",
+      "input_offset": "0xd84f50",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/B/SpFFlg03.bin"
+    },
+    {
+      "name": "B:\\SpFFlg04.bin",
+      "input_offset": "0xd84f70",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/B/SpFFlg04.bin"
+    },
+    {
+      "name": "B:\\SpFFlg05.bin",
+      "input_offset": "0xd84f90",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/B/SpFFlg05.bin"
+    },
+    {
+      "name": "B:\\SpFFlg06.bin",
+      "input_offset": "0xd84fb0",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/B/SpFFlg06.bin"
+    },
+    {
+      "name": "B:\\SpFFlg07.bin",
+      "input_offset": "0xd84fd0",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/B/SpFFlg07.bin"
+    },
+    {
+      "name": "B:\\SpFFlg08.bin",
+      "input_offset": "0xd84ff0",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/B/SpFFlg08.bin"
+    },
+    {
+      "name": "B:\\SpFFlg09.bin",
+      "input_offset": "0xd85010",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/B/SpFFlg09.bin"
+    },
+    {
+      "name": "B:\\SpFFlg10.bin",
+      "input_offset": "0xd85030",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/B/SpFFlg10.bin"
+    },
+    {
+      "name": "B:\\SpFFlg11.bin",
+      "input_offset": "0xd85050",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/B/SpFFlg11.bin"
+    },
+    {
+      "name": "B:\\SpFFlg12.bin",
+      "input_offset": "0xd85070",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/B/SpFFlg12.bin"
+    },
+    {
+      "name": "B:\\SpFFlg13.bin",
+      "input_offset": "0xd85090",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/B/SpFFlg13.bin"
+    },
+    {
+      "name": "B:\\SpFFlg14.bin",
+      "input_offset": "0xd850b0",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/B/SpFFlg14.bin"
+    },
+    {
+      "name": "B:\\SpFFlg15.bin",
+      "input_offset": "0xd850d0",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/B/SpFFlg15.bin"
+    },
+    {
+      "name": "B:\\SpFFlg16.bin",
+      "input_offset": "0xd850f0",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/B/SpFFlg16.bin"
+    },
+    {
+      "name": "E:\\ActOb.bin",
+      "input_offset": "0xd85110",
+      "size": 64,
+      "sha256": "7fd98addeb5c614fe16fcdf52250dfcc355ebef1e62f165e4d7cdfbb30bf5418",
+      "file": "analysis/extracted/resources/E/ActOb.bin"
+    },
+    {
+      "name": "E:\\Adjust.bin",
+      "input_offset": "0xd85160",
+      "size": 16,
+      "sha256": "231f5cecc61699ca90f5e9acdbc4c47552f66daeb7ef55327cb7574cda9f29e5",
+      "file": "analysis/extracted/resources/E/Adjust.bin"
+    },
+    {
+      "name": "E:\\AeSensor.bin",
+      "input_offset": "0xd85180",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/AeSensor.bin"
+    },
+    {
+      "name": "E:\\Audio.bin",
+      "input_offset": "0xd85190",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Audio.bin"
+    },
+    {
+      "name": "E:\\AwbGain.bin",
+      "input_offset": "0xd851a0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/AwbGain.bin"
+    },
+    {
+      "name": "E:\\Barcode.bin",
+      "input_offset": "0xd851b0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Barcode.bin"
+    },
+    {
+      "name": "E:\\BlockCtl.bin",
+      "input_offset": "0xd851c0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/BlockCtl.bin"
+    },
+    {
+      "name": "E:\\BmpLevel.bin",
+      "input_offset": "0xd851d0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/BmpLevel.bin"
+    },
+    {
+      "name": "E:\\CcdGain.bin",
+      "input_offset": "0xd851e0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/CcdGain.bin"
+    },
+    {
+      "name": "E:\\CcdPhase.bin",
+      "input_offset": "0xd851f0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/CcdPhase.bin"
+    },
+    {
+      "name": "E:\\CcdPulse.bin",
+      "input_offset": "0xd85200",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/CcdPulse.bin"
+    },
+    {
+      "name": "E:\\Color.bin",
+      "input_offset": "0xd85210",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Color.bin"
+    },
+    {
+      "name": "E:\\CpuAdj.bin",
+      "input_offset": "0xd85220",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/CpuAdj.bin"
+    },
+    {
+      "name": "E:\\DarkCurr.bin",
+      "input_offset": "0xd85230",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/DarkCurr.bin"
+    },
+    {
+      "name": "E:\\DustCali.bin",
+      "input_offset": "0xd85240",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/DustCali.bin"
+    },
+    {
+      "name": "E:\\Hw1Pixl.bin",
+      "input_offset": "0xd85250",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Hw1Pixl.bin"
+    },
+    {
+      "name": "E:\\Hw2Pixl.bin",
+      "input_offset": "0xd85260",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Hw2Pixl.bin"
+    },
+    {
+      "name": "E:\\Hw3Pixl.bin",
+      "input_offset": "0xd85270",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Hw3Pixl.bin"
+    },
+    {
+      "name": "E:\\Hw4Pixl.bin",
+      "input_offset": "0xd85280",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Hw4Pixl.bin"
+    },
+    {
+      "name": "E:\\HwVer.bin",
+      "input_offset": "0xd85290",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/HwVer.bin"
+    },
+    {
+      "name": "E:\\LcdAdj.bin",
+      "input_offset": "0xd852a0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/LcdAdj.bin"
+    },
+    {
+      "name": "E:\\Manufact.bin",
+      "input_offset": "0xd852b0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Manufact.bin"
+    },
+    {
+      "name": "E:\\ManuProc.bin",
+      "input_offset": "0xd852c0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/ManuProc.bin"
+    },
+    {
+      "name": "E:\\OpeChk.bin",
+      "input_offset": "0xd852d0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/OpeChk.bin"
+    },
+    {
+      "name": "E:\\SenBlBas.bin",
+      "input_offset": "0xd852e0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SenBlBas.bin"
+    },
+    {
+      "name": "E:\\SenBlDmy.bin",
+      "input_offset": "0xd852f0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SenBlDmy.bin"
+    },
+    {
+      "name": "E:\\SenInfo.bin",
+      "input_offset": "0xd85300",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SenInfo.bin"
+    },
+    {
+      "name": "E:\\SenLeft.bin",
+      "input_offset": "0xd85310",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SenLeft.bin"
+    },
+    {
+      "name": "E:\\SenLeft2.bin",
+      "input_offset": "0xd85320",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SenLeft2.bin"
+    },
+    {
+      "name": "E:\\SenSpot.bin",
+      "input_offset": "0xd85330",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SenSpot.bin"
+    },
+    {
+      "name": "E:\\SerialNo.bin",
+      "input_offset": "0xd85340",
+      "size": 32,
+      "sha256": "4c13016a7b3d2210e1fc05016be996b5180ca7270a24ff854cfc4ecc5f218f6a",
+      "file": "analysis/extracted/resources/E/SerialNo.bin"
+    },
+    {
+      "name": "E:\\SLeft2Gd.bin",
+      "input_offset": "0xd85370",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SLeft2Gd.bin"
+    },
+    {
+      "name": "E:\\SLeft2Gu.bin",
+      "input_offset": "0xd85380",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SLeft2Gu.bin"
+    },
+    {
+      "name": "E:\\SLeft2Md.bin",
+      "input_offset": "0xd85390",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SLeft2Md.bin"
+    },
+    {
+      "name": "E:\\SLeft2Mu.bin",
+      "input_offset": "0xd853a0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SLeft2Mu.bin"
+    },
+    {
+      "name": "E:\\SLeft2Op.bin",
+      "input_offset": "0xd853b0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SLeft2Op.bin"
+    },
+    {
+      "name": "E:\\SLeftGd.bin",
+      "input_offset": "0xd853c0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SLeftGd.bin"
+    },
+    {
+      "name": "E:\\SLeftGu.bin",
+      "input_offset": "0xd853d0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SLeftGu.bin"
+    },
+    {
+      "name": "E:\\SLeftMd.bin",
+      "input_offset": "0xd853e0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SLeftMd.bin"
+    },
+    {
+      "name": "E:\\SLeftMu.bin",
+      "input_offset": "0xd853f0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SLeftMu.bin"
+    },
+    {
+      "name": "E:\\SLeftOp.bin",
+      "input_offset": "0xd85400",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SLeftOp.bin"
+    },
+    {
+      "name": "E:\\Sw10Pixl.bin",
+      "input_offset": "0xd85410",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw10Pixl.bin"
+    },
+    {
+      "name": "E:\\Sw11Pixl.bin",
+      "input_offset": "0xd85420",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw11Pixl.bin"
+    },
+    {
+      "name": "E:\\Sw12Pixl.bin",
+      "input_offset": "0xd85430",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw12Pixl.bin"
+    },
+    {
+      "name": "E:\\Sw13Pixl.bin",
+      "input_offset": "0xd85440",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw13Pixl.bin"
+    },
+    {
+      "name": "E:\\Sw14Pixl.bin",
+      "input_offset": "0xd85450",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw14Pixl.bin"
+    },
+    {
+      "name": "E:\\Sw15Pixl.bin",
+      "input_offset": "0xd85460",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw15Pixl.bin"
+    },
+    {
+      "name": "E:\\Sw16Pixl.bin",
+      "input_offset": "0xd85470",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw16Pixl.bin"
+    },
+    {
+      "name": "E:\\Sw17Pixl.bin",
+      "input_offset": "0xd85480",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw17Pixl.bin"
+    },
+    {
+      "name": "E:\\Sw1Pixl.bin",
+      "input_offset": "0xd85490",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw1Pixl.bin"
+    },
+    {
+      "name": "E:\\Sw2Pixl.bin",
+      "input_offset": "0xd854a0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw2Pixl.bin"
+    },
+    {
+      "name": "E:\\Sw3Pixl.bin",
+      "input_offset": "0xd854b0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw3Pixl.bin"
+    },
+    {
+      "name": "E:\\Sw4Pixl.bin",
+      "input_offset": "0xd854c0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw4Pixl.bin"
+    },
+    {
+      "name": "E:\\Sw5Pixl.bin",
+      "input_offset": "0xd854d0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw5Pixl.bin"
+    },
+    {
+      "name": "E:\\Sw6Pixl.bin",
+      "input_offset": "0xd854e0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw6Pixl.bin"
+    },
+    {
+      "name": "E:\\Sw7Pixl.bin",
+      "input_offset": "0xd854f0",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw7Pixl.bin"
+    },
+    {
+      "name": "E:\\Sw8Pixl.bin",
+      "input_offset": "0xd85500",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw8Pixl.bin"
+    },
+    {
+      "name": "E:\\Sw9Pixl.bin",
+      "input_offset": "0xd85510",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/Sw9Pixl.bin"
+    },
+    {
+      "name": "E:\\SwSerial.bin",
+      "input_offset": "0xd85520",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/SwSerial.bin"
+    },
+    {
+      "name": "E:\\TestAdj.bin",
+      "input_offset": "0xd85530",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/TestAdj.bin"
+    },
+    {
+      "name": "E:\\VideoAmp.bin",
+      "input_offset": "0xd85540",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/VideoAmp.bin"
+    },
+    {
+      "name": "E:\\VShading.bin",
+      "input_offset": "0xd85550",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/VShading.bin"
+    },
+    {
+      "name": "E:\\VSubAdj.bin",
+      "input_offset": "0xd85560",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/VSubAdj.bin"
+    },
+    {
+      "name": "E:\\WifiInfo.bin",
+      "input_offset": "0xd85570",
+      "size": 192,
+      "sha256": "97df040a3cc913993a414b9240b99c0cd575944094b9021159c57b3f06ede5de",
+      "file": "analysis/extracted/resources/E/WifiInfo.bin"
+    },
+    {
+      "name": "E:\\WLan.bin",
+      "input_offset": "0xd85640",
+      "size": 4,
+      "sha256": "ad95131bc0b799c0b1af477fb14fcf26a6a9f76079e48bf090acb7e8367bfd0e",
+      "file": "analysis/extracted/resources/E/WLan.bin"
+    }
+  ]
+}

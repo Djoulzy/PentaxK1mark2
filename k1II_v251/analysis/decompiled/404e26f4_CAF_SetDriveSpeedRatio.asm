@@ -1,0 +1,14 @@
+404e26f4  stmdb sp!,{r4,r5,r6,lr}
+404e26f8  cmp r0,#0x2
+404e26fc  cpy r5,r1
+404e2700  bne 0x404e2724
+404e2704  bl 0x404c0eec
+404e2708  ldr r4,[r0,#0x4]
+404e270c  mov r2,#0x0
+404e2710  ldr r0,[r5,#0x4]
+404e2714  cpy r1,r2
+404e2718  blx 0x4020c174
+404e271c  movw r1,#0xcbb0
+404e2720  strb r0,[r1,r4]
+404e2724  mov r0,#0x0
+404e2728  ldmia sp!,{r4,r5,r6,pc}

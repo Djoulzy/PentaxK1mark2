@@ -1,0 +1,11 @@
+40439d34  stmdb sp!,{r4,lr}
+40439d38  adr r0,0x40439d8c
+40439d3c  mov r4,#0x0
+40439d40  bl 0x4067cd44
+40439d44  bl 0x40439cd0
+40439d48  cmp r0,#0x0
+40439d4c  adrne r0,0x40439da4
+40439d50  adreq r0,0x40439db8
+40439d54  bl 0x4067cd44
+40439d58  cpy r0,r4
+40439d5c  ldmia sp!,{r4,pc}

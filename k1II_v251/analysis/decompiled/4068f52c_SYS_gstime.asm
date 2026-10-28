@@ -1,0 +1,11 @@
+4068f52c  mov r0,#0x0
+4068f530  str lr,[sp,#-0x4]!
+4068f534  sub sp,sp,#0xc
+4068f538  cpy r1,r0
+4068f53c  strd r0,r1,[sp,#0x0]
+4068f540  bl 0x4041ccf8
+4068f544  cpy r1,sp
+4068f548  bl 0x4041cd28
+4068f54c  ldr r0,[sp,#0x0]
+4068f550  add sp,sp,#0xc
+4068f554  ldr pc,[sp],#0x4

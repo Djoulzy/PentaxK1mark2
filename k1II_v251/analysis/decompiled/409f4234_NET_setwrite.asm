@@ -1,0 +1,17 @@
+409f4234  cmp r0,#0x2
+409f4238  mvnlt r0,#0x0
+409f423c  stmdb sp!,{r4,lr}
+409f4240  ldmialt sp!,{r4,pc}
+409f4244  ldr r0,[r1,#0x4]
+409f4248  mov r4,#0x1
+409f424c  blx 0x4066f214
+409f4250  cmp r0,#0x0
+409f4254  moveq r4,#0x0
+409f4258  adr r0,0x409f4420
+409f425c  cpy r1,r4
+409f4260  bl 0x4067cd44
+409f4264  bl 0x409f459c
+409f4268  cpy r1,r4
+409f426c  bl 0x409f4da8
+409f4270  mov r0,#0x0
+409f4274  ldmia sp!,{r4,pc}

@@ -1,0 +1,37 @@
+[
+  {
+    "input_offset": "0x7e0200",
+    "stored_bytes": 24456,
+    "output_offset": "0x0",
+    "output_bytes": 32768,
+    "raw": false
+  },
+  {
+    "input_offset": "0x7e6188",
+    "stored_bytes": 12051,
+    "output_offset": "0x8000",
+    "output_bytes": 24576,
+    "raw": false
+  },
+  {
+    "input_offset": "0x7e909b",
+    "stored_bytes": 117,
+    "output_offset": "0xe000",
+    "output_bytes": 24576,
+    "raw": false
+  },
+  {
+    "input_offset": "0x7e9110",
+    "stored_bytes": 105,
+    "output_offset": "0x14000",
+    "output_bytes": 24576,
+    "raw": false
+  },
+  {
+    "input_offset": "0x7e9179",
+    "stored_bytes": 142,
+    "output_offset": "0x1a000",
+    "output_bytes": 24576,
+    "raw": false
+  }
+]

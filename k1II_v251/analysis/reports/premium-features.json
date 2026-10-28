@@ -1,0 +1,42 @@
+[
+  {
+    "table_offset": "0xa208cc",
+    "feature_id": 2,
+    "secondary_gate_id": 9,
+    "label_table_va": "0x40e93ec8",
+    "text_offset": "0xe90958",
+    "label": "Grad ND Simulator",
+    "description": "Composites two images with\\ndifferent exp. for each divided\\narea to reduce exp. difference.",
+    "default_model_0255": 0
+  },
+  {
+    "table_offset": "0xa208dc",
+    "feature_id": 11,
+    "secondary_gate_id": 12,
+    "label_table_va": "0x40f186b4",
+    "text_offset": "0xe9794a",
+    "label": "Star AF",
+    "description": "Adds \"Star AF\" to\\n\"Contrast AF\" option",
+    "default_model_0255": 0
+  },
+  {
+    "table_offset": "0xa208ec",
+    "feature_id": 14,
+    "secondary_gate_id": 15,
+    "label_table_va": "0x40f251d4",
+    "text_offset": "0xe99694",
+    "label": "Remote Ctrl. Focus Fine Adj.",
+    "description": "Finely adjust the focus using\\nthe zoom and Fn button placed\\non the remote control unit",
+    "default_model_0255": 0
+  },
+  {
+    "table_offset": "0xa208fc",
+    "feature_id": 17,
+    "secondary_gate_id": 18,
+    "label_table_va": "0x40f2e414",
+    "text_offset": "0xe9b7a2",
+    "label": "Astrophoto Image Processing",
+    "description": "Applies appropriate processing\\nto the image of celestial bodies\\nand saves it as a new file",
+    "default_model_0255": 0
+  }
+]

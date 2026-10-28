@@ -1,0 +1,16 @@
+403bd510  cpy r1,r0
+403bd514  adr r0,0x403bd624
+403bd518  stmdb sp!,{r4,lr}
+403bd51c  bl 0x4067cd44
+403bd520  bl 0x402675cc
+403bd524  bl 0x40449e00
+403bd528  ldr r0,[r0,#0x4]
+403bd52c  mov r2,#0x0
+403bd530  ldr r1,[r0,#0x0]
+403bd534  ldr r3,[r1,#0x18]
+403bd538  ldr r1,[0x403bd5fc]
+403bd53c  blx r3
+403bd540  adr r0,0x403bd648
+403bd544  bl 0x4067cd44
+403bd548  mov r0,#0x0
+403bd54c  ldmia sp!,{r4,pc}
